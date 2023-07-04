@@ -60,8 +60,10 @@
 <details>
   <summary><h2>Env Variables</h2> </summary>
   
- [list](https://github.com/mraniki/tt/blob/main/examples/example.env)
   
+<code>
+  https://raw.githubusercontent.com/mraniki/tt/main/examples/example.env
+</code>
 
 
 </details>
