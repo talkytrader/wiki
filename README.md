@@ -55,23 +55,10 @@
 
 <h2>Config</h2>
 
-https://github.com/mraniki/tt/blob/dc394d42d18e3718e0062f32cdfccb006b9c716a/examples/example.env
+     https://github.com/mraniki/tt/blob/dc394d42d18e3718e0062f32cdfccb006b9c716a/examples/example.env#L1
  
-```dotenv
-     https://github.com/mraniki/tt/blob/dc394d42d18e3718e0062f32cdfccb006b9c716a/examples/example.env
-```
 
-```dotenv:env.md
-```
-
-```dotenv:.env.example
- https://raw.githubusercontent.com/mraniki/tt/main/examples/example.env
-```
-
-https://github.com/stevemar/code-reference-in-readme/blob/031e04f922c14ecd5b03a79d8c979ba8f3ab1e39/src/main.py#L1-L6
-
-
-<details>
+<details close>
 <summary><h2>Modules</h2></summary>
 
 <h3>Talky</h3>
