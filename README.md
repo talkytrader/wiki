@@ -12,6 +12,7 @@
      <br>&emsp;&emsp;<a href="https://discord.gg/gMNERs5M9"><img alt="Discord" src="https://badgen.net/badge/icon/discord/purple?icon=discord&label">
       <a href="https://t.me/TTTalkyTraderChat/1">&emsp;<img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" /></a><br><br>
 🍩 If you like it, feel free to <br>&emsp;&emsp;<a href="https://coindrop.to/mraniki"><img src="https://badgen.net/badge/icon/coindrop/6F4E37?icon=buymeacoffee&label"/></a>
+
 </p>
 
 <details close>
