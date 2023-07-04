@@ -13,17 +13,6 @@
 ⚠️ This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. For DEX, Never share your private keys. NEVER use your main account for automatic trade
 
 ## Get started
-What is Python?
-https://www.programiz.com/python-programming/first-program
-What is Docker?
-https://docs.docker.com/get-started/
-https://m.youtube.com/watch?v=iqqDU2crIEQ
-Install
-Docker
-docker push mraniki/tt:latest or docker pull ghcr.io/mraniki/tt:latest
-Local
-git clone https://github.com/mraniki/tt:main && pip install -r requirements.txt python3 bot.py
-
 
 ## Module
 
@@ -36,6 +25,3 @@ git clone https://github.com/mraniki/tt:main && pip install -r requirements.txt 
 ### IamListening
 
 ### TalkyTrend
-
-
-## Contribute
