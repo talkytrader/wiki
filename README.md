@@ -1,7 +1,6 @@
-<meta 
-  name    = "color-scheme" 
-  content = "light dark"
-/>
+<head>
+  <meta name="color-scheme" content="light dark">
+</head>
 <h2>🗿 TalkyUniverse</h2>
 
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="200" height="200">
@@ -25,7 +24,7 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 
 
 
-
+<img align="right" width="194" alt="screenshot" src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
 <details close>
 <summary>Get started</summary>
 
@@ -67,9 +66,6 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 </ol>
 
 </details>
-
-<img align="right" width="194" alt="screenshot" 
-     src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
 
 
 <details close>
