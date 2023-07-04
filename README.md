@@ -35,7 +35,7 @@
   
   5) Start your container or if deployed locally use `python3 bot.py` to start
      
-</p></details>
+</details>
 
 <details><summary><h2>Module</h2> </summary>
 
