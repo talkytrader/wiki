@@ -20,25 +20,25 @@
 
 <li>Create your channel/room and your platform bot</li>
 
-    - Telegram via [Telegram @BotFather](https://core.telegram.org/bots/tutorial) and [create an API key](https://docs.telethon.dev/en/stable/basic/signing-in.html) 
-    - Discord via [Discord Dev portal](https://discord.com/developers/docs/intro)
-    - Matrix via [Matrix.org](https://turt2live.github.io/matrix-bot-sdk/index.html)
+- Telegram via <a href="https://core.telegram.org/bots/tutorial">Telegram @BotFather</a> and [create an API key](https://docs.telethon.dev/en/stable/basic/signing-in.html) 
+- Discord via [Discord Dev portal](https://discord.com/developers/docs/intro)
+- Matrix via [Matrix.org](https://turt2live.github.io/matrix-bot-sdk/index.html)
 
 <li>Get your 
      
-    - DEX wallet address and private key
-    - CEX API Keys supported by [CCXT](https://github.com/ccxt/ccxt) or
+- DEX wallet address and private key
+- CEX API Keys supported by [CCXT](https://github.com/ccxt/ccxt) or
 
 </li>
 
-<li>Create your config file settings.tomls or prepare your env variable</li>
+<li>Create your config file settings.toml or use  <a href="https://github.com/talkytrader/wiki/blob/main/README.md#config">env variable</a></li>
 https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e21774/example_settings.toml#L2-L50
 
 <li>Deploy via:
     
-     - docker 
+- docker 
           `docker pull mraniki/tt:latest` or `docker pull ghcr.io/mraniki/tt:latest`
-     - locally 
+- locally 
           `git clone https://github.com/mraniki/tt:main` && `pip install -r requirements.txt` 
 </li>
 
@@ -47,11 +47,18 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 <li>Documentation available on <a href="https://talkytrader.github.io/wiki">wiki</a>
 
 </ol>
+
 </details>
 
-<h2>Try it</h2>
+<h2>Try it now</h2>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&image=docker.io/mraniki/tt&name=tt-demo)
+<img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt">
+
+<img alt="Koyeb Badge" src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?logo=koyeb&link=https%3A%2F%2Fapp.koyeb.com%2Fdeploy%3Ftype%3Ddocker%26image%3Ddocker.io%2Fmraniki%2Ftt%26name%3Dtt-demo">
+
+
+
+
 
 <details close>
 <summary><h2>Config</h2></summary>
