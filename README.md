@@ -55,6 +55,7 @@
 
 <h2>Config</h2>
 
+https://github.com/mraniki/tt/blob/dc394d42d18e3718e0062f32cdfccb006b9c716a/examples/example.env
  
 ```dotenv
      https://github.com/mraniki/tt/blob/dc394d42d18e3718e0062f32cdfccb006b9c716a/examples/example.env
@@ -64,29 +65,35 @@
 ```
 
 ```dotenv:.env.example
+ https://raw.githubusercontent.com/mraniki/tt/main/examples/example.env
 ```
+
+https://github.com/stevemar/code-reference-in-readme/blob/031e04f922c14ecd5b03a79d8c979ba8f3ab1e39/src/main.py#L1-L6
+
 
 <details>
 <summary><h2>Modules</h2></summary>
 
 <h3>Talky</h3>
   
-Submit trading order to CEX & DEX with multi messaging platform and plugin support
+<a href="https://talkyuniverse.readthedocs.io/projects/talky/">Submit trading order to CEX & DEX with multi messaging platform and plugin support</a>
 
 <h3>FindMyOrder</h3>
 
-Find that order
+<a href="https://talkyuniverse.readthedocs.io/projects/fyndmyorder/">Find that order</a>
 
 <h3>DXSP</h3>
 
-Swap made easy
+<a href="https://talkyuniverse.readthedocs.io/projects/dxsp/">Swap made easy</a>
+
 <h3>IamListening</h3>
 
 Build a chat listener bot
+<a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/">Find that order</a>
 
-<h3>TalkyTredn</h3>
+<h3>TalkyTrend</h3>
 
-  Get the trend
+<a href="https://talkyuniverse.readthedocs.io/projects/talkytrend/">Get the trend</a>
 
 </details>
 
