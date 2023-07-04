@@ -1,5 +1,5 @@
 # TalkyUniverse
-[![Logo](https://i.imgur.com/Q7iDDyB.jpg)](https://github.com/mraniki/tt)
+<div align="center"> <a href="https://github.com/mraniki/tt"><img src=https://i.imgur.com/Q7iDDyB.jpg></a></div>
 
 ℹ️ Information is available on the different talky module on the sidebar
 
@@ -15,6 +15,10 @@
 
 ## Get started
 
-<details><summary><h3>Quick Start</h3></summary>
+<details>
+  
+  <summary><h3>Quick Start</h3></summary>
 
+
+Test
 </details>
