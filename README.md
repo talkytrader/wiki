@@ -63,6 +63,8 @@
 ```dotenv:env.md
 ```
 
+```dotenv:.env.example
+```
 
 <details>
 <summary><h2>Modules</h2></summary>
