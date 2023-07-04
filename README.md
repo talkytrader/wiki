@@ -59,11 +59,10 @@
 
 <details>
   <summary><h2>Env Variables</h2> </summary>
-  
-  
-<code>
-  https://raw.githubusercontent.com/mraniki/tt/main/examples/example.env
-</code>
-
 
 </details>
+
+https://github.com/mraniki/tt/blob/dc394d42d18e3718e0062f32cdfccb006b9c716a/examples/example.env#L2
+
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample.env&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on&fetchFromJsDelivr=on"></script>
+
