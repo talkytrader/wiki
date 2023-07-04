@@ -36,6 +36,7 @@
 
 5) Start your container or if deployed locally use `python3 bot.py` to start
 
-6) Documentation available on [Wiki](https://talkytrader.github.io/wiki/)Start your container or if deployed locally use `python3 bot.py` to start
+6) Documentation available on [Wiki](https://talkytrader.github.io/wiki/)
+
 
 </details>
