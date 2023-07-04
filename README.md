@@ -48,7 +48,7 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 
 <h2>Try it now</h2>
 
-<img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt">
+<a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt"></a>
 <img alt="Koyeb Badge" src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?logo=koyeb&link=https%3A%2F%2Fapp.koyeb.com%2Fdeploy%3Ftype%3Ddocker%26image%3Ddocker.io%2Fmraniki%2Ftt%26name%3Dtt-demo">
 
 <details close>
