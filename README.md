@@ -1,7 +1,6 @@
 <h1>🗿 TalkyUniverse</h1>
 
-<img src="https://i.imgur.com/Q7iDDyB.jpg" align="right"
-     alt="talky" width="200" height="200">
+<img src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="200" height="200">
 <div align="left">
 
 
@@ -40,7 +39,7 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 <li>CEX API Keys supported by <a href="https://github.com/ccxt/ccxt">CCXT</a></li>
 </ul></li>
 
-<li>Create your config file settings.toml or use  <a href="https://github.com/talkytrader/wiki/blob/main/README.md#config">env variable</a></li>
+<li>Create your config file settings.toml or use <a href="https://github.com/talkytrader/wiki/blob/main/README.md#config">env variable</a></li>
 
 https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e21774/example_settings.toml#L2-L50
 
@@ -56,21 +55,18 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 <li>Try it now</li>
 
 <a href="https://app.koyeb.com/deploy?type=docker&image=docker.io/mraniki/tt&name=tt-demo"><img src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?style=for-the-badge&logo=koyeb"></a>
-
 </ol>
 
 </details>
-
 
 <img align="right" width="194" alt="screenshot" 
      src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
 
 
-
 <details close>
 <summary><h2>Config</h2></summary>
 
-https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114
+<code>https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114</code>
 
 </details>
 
