@@ -24,11 +24,9 @@
 - Discord via [Discord Dev portal](https://discord.com/developers/docs/intro)
 - Matrix via [Matrix.org](https://turt2live.github.io/matrix-bot-sdk/index.html)
 
-<li>Get your 
-     
+<li>Get your    
 - DEX wallet address and private key
 - CEX API Keys supported by [CCXT](https://github.com/ccxt/ccxt) or
-
 </li>
 
 <li>Create your config file settings.toml or use  <a href="https://github.com/talkytrader/wiki/blob/main/README.md#config">env variable</a></li>
@@ -43,9 +41,7 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 </li>
 
 <li>Start your container or if deployed locally use `python3 bot.py` to start</li>
-
 <li>Documentation available on <a href="https://talkytrader.github.io/wiki">wiki</a>
-
 </ol>
 
 </details>
@@ -53,21 +49,13 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 <h2>Try it now</h2>
 
 <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt">
-
 <img alt="Koyeb Badge" src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?logo=koyeb&link=https%3A%2F%2Fapp.koyeb.com%2Fdeploy%3Ftype%3Ddocker%26image%3Ddocker.io%2Fmraniki%2Ftt%26name%3Dtt-demo">
-
-
-
-
 
 <details close>
 <summary><h2>Config</h2></summary>
-
-https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114
-
-
-     
+https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114  
 </details>
+
 
 <details close>
 <summary><h2>Modules</h2></summary>
@@ -95,6 +83,7 @@ Build a chat listener bot
 
 </details>
 
+<img width="194" alt="222953459-0aaf024b-4d7b-4a57-b31b-7cab08f3c0d3" src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
 
 
 
