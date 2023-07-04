@@ -23,7 +23,7 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 
 
 <details close>
-<summary><h3>Get started</h3></summary>
+<summary>Get started</summary>
 
 <ol>
 
@@ -64,15 +64,15 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 
 
 <details close>
-<summary><h3>Config</h3></summary>
+<summary>Config</summary>
 
-<code>https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114</code>
+https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114
 
 </details>
 
 
 <details close>
-<summary><h3>Modules</h3></summary>
+<summary>Modules</summary>
 
 <h4>Talky</h4>
   
