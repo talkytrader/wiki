@@ -39,7 +39,7 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 <li>CEX API Keys supported by <a href="https://github.com/ccxt/ccxt">CCXT</a></li>
 </ul></li>
 
-<li>Create your config file settings.toml or use <a href="https://github.com/talkytrader/wiki/blob/main/README.md#config">env variable</a></li>
+<li>Create your config file settings.toml or use env variables</li>
 
 <details close>
 <summary>settings example</summary>
@@ -71,11 +71,14 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 <details close>
 <summary>Config</summary>
 
-https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114
+<details close>
+<summary>env vars list</summary>
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample.env&style=default&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></script>
+
 </details>
 
+</details>
 
 <details close>
 <summary>Modules</summary>
