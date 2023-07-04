@@ -1,4 +1,4 @@
-<h1>🗿 TalkyUniverse</h1>
+<h2>🗿 TalkyUniverse</h2>
 
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="200" height="200">
 <div align="left">
@@ -23,7 +23,7 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 
 
 <details close>
-<summary><h2>Get started</h2></summary>
+<summary><h3>Get started</h3></summary>
 
 <ol>
 
@@ -64,7 +64,7 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 
 
 <details close>
-<summary><h2>Config</h2></summary>
+<summary><h3>Config</h3></summary>
 
 <code>https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114</code>
 
@@ -72,26 +72,26 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 
 
 <details close>
-<summary><h2>Modules</h2></summary>
+<summary><h3>Modules</h3></summary>
 
-<h3>Talky</h3>
+<h4>Talky</h4>
   
 <a href="https://talkyuniverse.readthedocs.io/projects/talky/">Submit trading order to CEX & DEX with multi messaging platform and plugin support</a>
 
-<h3>FindMyOrder</h3>
+<h4>FindMyOrder</h4>
 
 <a href="https://talkyuniverse.readthedocs.io/projects/fyndmyorder/">Find that order</a>
 
-<h3>DXSP</h3>
+<h4>DXSP</h4>
 
 <a href="https://talkyuniverse.readthedocs.io/projects/dxsp/">Swap made easy</a>
 
-<h3>IamListening</h3>
+<h4>IamListening</h4>
 
 Build a chat listener bot
 <a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/">Find that order</a>
 
-<h3>TalkyTrend</h3>
+<h4>TalkyTrend</h4>
 
 <a href="https://talkyuniverse.readthedocs.io/projects/talkytrend/">Get the trend</a>
 
