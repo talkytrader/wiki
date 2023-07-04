@@ -1,4 +1,4 @@
-# TalkyUniverse
+# 🗿 TalkyUniverse
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right"
      alt="talky" width="400" height="400">
 
