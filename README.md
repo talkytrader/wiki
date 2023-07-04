@@ -16,6 +16,7 @@
 ## Get started
 <details>
   <summary><h2>Quick Start</h2> </summary>
+
   1) Create your channel/room and your platform bot
   
       - Telegram via [Telegram @BotFather](https://core.telegram.org/bots/tutorial) and [create an API key](https://docs.telethon.dev/en/stable/basic/signing-in.html) 
@@ -34,7 +35,6 @@
       - locally `git clone https://github.com/mraniki/tt:main` && `pip install -r requirements.txt`
   
   5) Start your container or if deployed locally use `python3 bot.py` to start
-
 </details>
 
 <details>
