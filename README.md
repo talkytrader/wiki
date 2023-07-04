@@ -3,14 +3,15 @@
 <p>
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right"
      alt="talky" width="250" height="250"><br>
-ℹ️ Information available on talkytrader and its modules<br>
-🐛 If you find an issue you'd like to report or want a new feature <br><a href="https://github.com/mraniki/tt/issues"><img src="https://badgen.net/github/open-issues/mraniki/tt" /></a><br><br>
+ℹ️ Documentation available on talkytrader<br>&emsp;&emsp;<a href="https://talkytrader.github.io/wiki"><img alt="wiki" src="https://img.shields.io/badge/-%F0%9F%97%BF-yellow?logo=wikipedia">
+</a><br>
+🐛 If you find an issue you'd like to report or want a new feature <br>&emsp;&emsp;<a href="https://github.com/mraniki/tt/issues"><img src="https://badgen.net/github/open-issues/mraniki/tt" /></a><br><br>
 <img align="right" width="194" alt="screenshot" 
      src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
 💬 Share your feedback, connect and contribute via: 
-     <br><a href="https://discord.gg/gMNERs5M9"><img alt="Discord" src="https://badgen.net/badge/icon/discord/purple?icon=discord&label">
-      <a href="https://t.me/TTTalkyTraderChat/1"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" /></a><br><br>
-🍩 If you like it, feel free to <a href="https://coindrop.to/mraniki"><img src="https://badgen.net/badge/icon/coindrop/6F4E37?icon=buymeacoffee&label"/></a><br>
+     <br>&emsp;&emsp;<a href="https://discord.gg/gMNERs5M9"><img alt="Discord" src="https://badgen.net/badge/icon/discord/purple?icon=discord&label">
+      <a href="https://t.me/TTTalkyTraderChat/1">&emsp;<img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" /></a><br><br>
+🍩 If you like it, feel free to <br>&emsp;&emsp;<a href="https://coindrop.to/mraniki"><img src="https://badgen.net/badge/icon/coindrop/6F4E37?icon=buymeacoffee&label"/></a>
 </p>
 
 <details close>
