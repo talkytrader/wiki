@@ -45,14 +45,17 @@
 ### Talky
   Submit trading order to CEX & DEX with multi messaging platform and plugin support
 
-
 ### FindMyOrder
+find that order
 
 ### DXSP
+Swap made easy
 
 ### IamListening
+Build a chat listener bot
 
 ### TalkyTrend
+  Get the trend
 
 </details>
 
