@@ -1,31 +1,21 @@
 # 🗿 TalkyUniverse
 
+<p>
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right"
-     alt="talky" width="250" height="250">
-<br>
-<img align="right" width="194" alt="TT" 
+     alt="talky" width="250" height="250"><br>
+ℹ️ Information available on talkytrader and its modules<br>
+🐛 If you find an issue you'd like to report or want a new feature <br><a href="https://github.com/mraniki/tt/issues"><img src="https://badgen.net/github/open-issues/mraniki/tt" /></a><br><br>
+<img align="right" width="194" alt="screenshot" 
      src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
-<br>
-     
-
-
-ℹ️ Information is available on the different talky modules
-<br>
-🐛 If you find an issue you'd like to report, or otherwise have feedback, please add a new Issue <a href="https://github.com/mraniki/tt/issues"><img src="https://badgen.net/github/open-issues/mraniki/tt" /></a>
-<br>
-🧑‍💻 If you'd like to contribute, please start by creating or commenting on an <a href="https://github.com/mraniki/tt/issues">issue</a>
-<br>
-💬 Share your feedback and connect on 
-     <br><a href="https://discord.gg/vegJQGrRRa"><img src="https://badgen.net/badge/icon/discord/purple?icon=discord&label" /></a>
-      <a href="https://t.me/TTTalkyTraderChat/1"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" /></a>
-<br>
-🍩 If you like it, feel free to <a href="https://coindrop.to/mraniki"><img src="https://badgen.net/badge/icon/coindrop/6F4E37?icon=buymeacoffee&label"/></a>
-<br>
-⚠️ This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. For DEX, Never share your private keys. NEVER use your main account for automatic trade
-  
+💬 Share your feedback, connect and contribute via: 
+     <br><a href="https://discord.gg/gMNERs5M9"><img alt="Discord" src="https://badgen.net/badge/icon/discord/purple?icon=discord&label">
+      <a href="https://t.me/TTTalkyTraderChat/1"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" /></a><br><br>
+🍩 If you like it, feel free to <a href="https://coindrop.to/mraniki"><img src="https://badgen.net/badge/icon/coindrop/6F4E37?icon=buymeacoffee&label"/></a><br>
+</p>
 
 <details close>
 <summary><h2>Get started</h2></summary>
+
 <ol>
 
 <li>Create your channel/room and your platform bot</li>
@@ -63,7 +53,8 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 
 <details close>
 <summary><h2>Config</h2></summary>
-https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114  
+https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114
+
 </details>
 
 
@@ -91,4 +82,10 @@ Build a chat listener bot
 
 <a href="https://talkyuniverse.readthedocs.io/projects/talkytrend/">Get the trend</a>
 
+
+
 </details>
+
+<HR>
+⚠️ <em>This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. For DEX, Never share your private keys. NEVER use your main account for automatic trade</em>
+
