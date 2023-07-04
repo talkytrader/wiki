@@ -31,7 +31,8 @@
 
 </li>
 
-<li>Create your config [/app/settings.toml](src/example_settings.toml) or prepare your env variable</li>
+<li>Create your config file settings.tomls or prepare your env variable</li>
+https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e21774/example_settings.toml#L2-L50
 
 <li>Deploy via:
     
@@ -52,11 +53,14 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&image=docker.io/mraniki/tt&name=tt-demo)
 
+<details close>
+<summary><h2>Config</h2></summary>
 
-<h2>Config</h2>
+https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114
 
-     https://github.com/mraniki/tt/blob/dc394d42d18e3718e0062f32cdfccb006b9c716a/examples/example.env#L1
- 
+
+     
+</details>
 
 <details close>
 <summary><h2>Modules</h2></summary>
