@@ -26,7 +26,7 @@
       - CEX API Keys supported by [CCXT](https://github.com/ccxt/ccxt) or
       - DEX wallet address and private key
   
-  3) Create your config [/app/settings.toml](src/example_settings.toml) or prepare your env variable
+  3) Create your config [/app/settings.toml](https://github.com/mraniki/tt/blob/main/examples/example_settings.toml) or prepare your env variable
   
   4) Deploy via:
       - docker `docker pull mraniki/tt:latest` or `docker pull ghcr.io/mraniki/tt:latest`
@@ -42,7 +42,7 @@
 
 
 ### Talky
-![CEX & DEX integration with messaging platform and plugin support.](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=100&color=027CF9&multiline=true&repeat=false&width=600&height=60&lines=Connect+CEX+and+DEX+exchanges+across+multi+messaging+platforms.;Place+order%2C+inquire+your+balance+and+more+through+plugins.;Easily+deploy+via+Docker+on+self-hosted+platforms+or+PaaS.)
+  Submit trading order to CEX & DEX with multi messaging platform and plugin support
 
 
 ### FindMyOrder
@@ -57,6 +57,9 @@
 
 <details>
   <summary><h2>Env Variables</h2> </summary>
+  
+[list](https://github.com/mraniki/tt/blob/main/examples/example.env)
+  
 
 
 </details>
