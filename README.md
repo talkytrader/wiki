@@ -1,19 +1,26 @@
 # 🗿 TalkyUniverse
 
-<p>
+<div align="left">
+
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right"
-     alt="talky" width="250" height="250"><br>
-ℹ️ Documentation available on talkytrader<br>&emsp;&emsp;<a href="https://talkytrader.github.io/wiki"><img alt="wiki" src="https://img.shields.io/badge/-%F0%9F%97%BF-yellow?logo=wikipedia">
-</a><br>
-🐛 If you find an issue you'd like to report or want a new feature <br>&emsp;&emsp;<a href="https://github.com/mraniki/tt/issues"><img src="https://badgen.net/github/open-issues/mraniki/tt" /></a><br><br>
-<img align="right" width="194" alt="screenshot" 
-     src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
-💬 Share your feedback, connect and contribute via: 
-     <br>&emsp;&emsp;<a href="https://discord.gg/gMNERs5M9"><img alt="Discord" src="https://badgen.net/badge/icon/discord/purple?icon=discord&label">
-      <a href="https://t.me/TTTalkyTraderChat/1">&emsp;<img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" /></a><br><br>
-🍩 If you like it, feel free to <br>&emsp;&emsp;<a href="https://coindrop.to/mraniki"><img src="https://badgen.net/badge/icon/coindrop/6F4E37?icon=buymeacoffee&label"/></a>
+     alt="talky" width="250" height="250">
+
+Submit trading order to CEX & DEX with multi messaging platform and plugin support
+
+<p align="center">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/mraniki/tt?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/mraniki/tt?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/CoinDrop-000?style=for-the-badge&logo=buymeacoffee&logoColor=white">
 
 </p>
+
+
+</div>
 
 <details close>
 <summary><h2>Get started</h2></summary>
@@ -50,8 +57,8 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 
 <h2>Try it now</h2>
 
-<a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt"></a>
-<img alt="Koyeb Badge" src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?logo=koyeb&link=https%3A%2F%2Fapp.koyeb.com%2Fdeploy%3Ftype%3Ddocker%26image%3Ddocker.io%2Fmraniki%2Ftt%26name%3Dtt-demo">
+<a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a>
+<img alt="Koyeb Badge" src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?style=for-the-badge&logo=koyeb&link=https%3A%2F%2Fapp.koyeb.com%2Fdeploy%3Ftype%3Ddocker%26image%3Ddocker.io%2Fmraniki%2Ftt%26name%3Dtt-demo">
 
 <details close>
 <summary><h2>Config</h2></summary>
