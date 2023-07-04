@@ -1,6 +1,7 @@
 # 🗿 TalkyUniverse
 <img align="right" width="194" alt="TT" 
      src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
+<br>
      
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right"
      alt="talky" width="250" height="250">
