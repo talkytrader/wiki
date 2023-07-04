@@ -56,11 +56,11 @@
 <h2>Config</h2>
 
  
-```Dotenv
+```dotenv
      https://github.com/mraniki/tt/blob/dc394d42d18e3718e0062f32cdfccb006b9c716a/examples/example.env
 ```
 
-```Dotenv:env.md
+```dotenv:env.md
 ```
 
 
