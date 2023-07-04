@@ -14,9 +14,7 @@
 ⚠️ This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. For DEX, Never share your private keys. NEVER use your main account for automatic trade
 
 ## Get started
-
-<details>
-  <summary><h2>Quick Start</h2> </summary>
+<details><summary><h2>Quick Start</h2></summary>
 
   1) Create your channel/room and your platform bot
   
@@ -37,10 +35,9 @@
   
   5) Start your container or if deployed locally use `python3 bot.py` to start
      
-</details>
+</p></details>
 
-<details>
-  <summary><h2>Module</h2> </summary>
+<details><summary><h2>Module</h2> </summary>
 
 ### Talky
   Submit trading order to CEX & DEX with multi messaging platform and plugin support
@@ -59,8 +56,7 @@ Build a chat listener bot
 
 </details>
 
-<details>
-  <summary><h2>Env Variables</h2> </summary>
+<details><summary><h2>Env Variables</h2> </summary>
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample.env&style=default&type=markdown&showLineNumbers=on&showCopy=on&fetchFromJsDelivr=on"></script>
 
