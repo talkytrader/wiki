@@ -41,6 +41,7 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 </ul></li>
 
 <li>Create your config file settings.toml or use  <a href="https://github.com/talkytrader/wiki/blob/main/README.md#config">env variable</a></li>
+
 https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e21774/example_settings.toml#L2-L50
 
 <li>Deploy via:
