@@ -1,4 +1,4 @@
-# 🗿 TalkyUniverse
+<h1>🗿 TalkyUniverse</h1>
 
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right"
      alt="talky" width="200" height="200">
@@ -28,30 +28,30 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 
 <ol>
 
-<li>Create your channel/room and your platform bot</li>
-
-- Telegram via <a href="https://core.telegram.org/bots/tutorial">Telegram @BotFather</a> and <a href="https://docs.telethon.dev/en/stable/basic/signing-in.html">create an API key</a> 
-- Discord via <a href="https://discord.com/developers/docs/intro">Discord Dev portal</a>
-- Matrix via <a href="https://turt2live.github.io/matrix-bot-sdk/index.html">Matrix.org</a>
-
-<li>Get your</li>
-
-- DEX wallet address and private key
-- CEX API Keys supported by <a href="https://github.com/ccxt/ccxt">CCXT</a>
-
+<li>Create your channel/room and your platform bot
+<ul>
+<li>Telegram via <a href="https://core.telegram.org/bots/tutorial">Telegram @BotFather</a> and <a href="https://docs.telethon.dev/en/stable/basic/signing-in.html">create an API key</a> </li>
+<li>Discord via <a href="https://discord.com/developers/docs/intro">Discord Dev portal</a></li>
+<li>Matrix via <a href="https://turt2live.github.io/matrix-bot-sdk/index.html">Matrix.org</a></li>
+</ul></li>
+<li>Get your
+<ul>
+<li>DEX wallet address and private key</li>
+<li>CEX API Keys supported by <a href="https://github.com/ccxt/ccxt">CCXT</a></li>
+</ul></li>
 
 <li>Create your config file settings.toml or use  <a href="https://github.com/talkytrader/wiki/blob/main/README.md#config">env variable</a></li>
 https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e21774/example_settings.toml#L2-L50
 
 <li>Deploy via:
-    
-- docker 
-          `docker pull mraniki/tt:latest` or `docker pull ghcr.io/mraniki/tt:latest`
-- locally 
-          `git clone https://github.com/mraniki/tt:main` && `pip install -r requirements.txt` 
-</li>
+   <ul> 
+<li>docker 
+          <code>docker pull mraniki/tt:latest</code> or <code>docker pull ghcr.io/mraniki/tt:latest</code></li>
+<li>locally 
+          <code>git clone https://github.com/mraniki/tt:main</code> && <code>pip install -r requirements.txt</code> </li>
+</ul></li>
 
-<li>Start your container or if deployed locally use `python3 bot.py` to start</li>
+<li>Start your container or if deployed locally use <code>python3 bot.py</code> to start </li>
 <li>Try it now</li>
 
 <a href="https://app.koyeb.com/deploy?type=docker&image=docker.io/mraniki/tt&name=tt-demo"><img src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?style=for-the-badge&logo=koyeb"></a>
