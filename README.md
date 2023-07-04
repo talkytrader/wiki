@@ -43,6 +43,9 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 
 https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e21774/example_settings.toml#L2-L50
 
+
+<embed type="text/html" src="https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e21774/example_settings.toml#L2-L50"  width="500" height="200">
+
 <li>Deploy via:
    <ul> 
 <li>docker 
