@@ -14,6 +14,7 @@
 ⚠️ This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. For DEX, Never share your private keys. NEVER use your main account for automatic trade
 
 ## Get started
+
 <details><summary><h2>Quick Start</h2></summary>
 
   1) Create your channel/room and your platform bot
