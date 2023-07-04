@@ -21,7 +21,7 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 </p>
 
 
-</div>
+
 
 <details close>
 <summary><h2>Get started</h2></summary>
@@ -30,14 +30,15 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 
 <li>Create your channel/room and your platform bot</li>
 
-- Telegram via <a href="https://core.telegram.org/bots/tutorial">Telegram @BotFather</a> and [create an API key](https://docs.telethon.dev/en/stable/basic/signing-in.html) 
-- Discord via [Discord Dev portal](https://discord.com/developers/docs/intro)
-- Matrix via [Matrix.org](https://turt2live.github.io/matrix-bot-sdk/index.html)
+- Telegram via <a href="https://core.telegram.org/bots/tutorial">Telegram @BotFather</a> and <a href="https://docs.telethon.dev/en/stable/basic/signing-in.html">create an API key</a> 
+- Discord via <a href="https://discord.com/developers/docs/intro">Discord Dev portal</a>
+- Matrix via <a href="https://turt2live.github.io/matrix-bot-sdk/index.html">Matrix.org</a>
 
-<li>Get your    
+<li>Get your</li>
+
 - DEX wallet address and private key
-- CEX API Keys supported by [CCXT](https://github.com/ccxt/ccxt) or
-</li>
+- CEX API Keys supported by <a href="https://github.com/ccxt/ccxt">CCXT</a>
+
 
 <li>Create your config file settings.toml or use  <a href="https://github.com/talkytrader/wiki/blob/main/README.md#config">env variable</a></li>
 https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e21774/example_settings.toml#L2-L50
@@ -51,8 +52,9 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 </li>
 
 <li>Start your container or if deployed locally use `python3 bot.py` to start</li>
-<li>try it now<br>
-<a href="https://app.koyeb.com/deploy?type=docker&image=docker.io/mraniki/tt&name=tt-demo"><img src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?style=for-the-badge&logo=koyeb"></a></li>
+<li>Try it now</li>
+
+<a href="https://app.koyeb.com/deploy?type=docker&image=docker.io/mraniki/tt&name=tt-demo"><img src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?style=for-the-badge&logo=koyeb"></a>
 
 </ol>
 
@@ -102,3 +104,4 @@ Build a chat listener bot
 <HR>
 ⚠️ <em>This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. For DEX, Never share your private keys. NEVER use your main account for automatic trade</em>
 
+</div>
