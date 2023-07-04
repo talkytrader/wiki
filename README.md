@@ -36,31 +36,3 @@
   5) Start your container or if deployed locally use `python3 bot.py` to start
      
 </details>
-
-
-
-<details><summary><h2>Module</h2> </summary>
-
-### Talky
-  Submit trading order to CEX & DEX with multi messaging platform and plugin support
-
-### FindMyOrder
-find that order
-
-### DXSP
-Swap made easy
-
-### IamListening
-Build a chat listener bot
-
-### TalkyTrend
-  Get the trend
-
-</details>
-
-<details><summary><h2>Env Variables</h2> </summary>
-
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample.env&style=default&type=markdown&showLineNumbers=on&showCopy=on&fetchFromJsDelivr=on"></script>
-
-
-</details>
