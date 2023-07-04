@@ -58,6 +58,7 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 
 </details>
 
+
 <img align="right" width="194" alt="screenshot" 
      src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
 
@@ -65,6 +66,7 @@ https://github.com/talkytrader/wiki/blob/7b9a1caf49e92ae481a5d8401d782df7c1e2177
 
 <details close>
 <summary><h2>Config</h2></summary>
+
 https://github.com/talkytrader/wiki/blob/c9d39101f7f74233f6e7d756790373fbc2251a63/.env.example#L1-L114
 
 </details>
