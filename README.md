@@ -10,7 +10,7 @@
 
 Submit trading order to CEX & DEX with multi messaging platform and plugin support
 <br>
-<p align="center">
+<p align="left">
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a>
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/github/stars/mraniki/tt?style=for-the-badge"></a>
