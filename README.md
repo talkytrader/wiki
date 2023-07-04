@@ -1,5 +1,6 @@
 # TalkyUniverse
-<div align="center"> <a href="https://github.com/mraniki/tt"> <img src="https://i.imgur.com/Q7iDDyB.jpg"> </a></div>
+<img src="https://i.imgur.com/Q7iDDyB.jpg" align="right"
+     alt="talky" width="400" height="400">
 
 ℹ️ Information is available on the different talky modules
 
