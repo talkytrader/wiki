@@ -1,4 +1,5 @@
 # TalkyUniverse
+[![Logo](https://i.imgur.com/Q7iDDyB.jpg)](https://github.com/mraniki/tt)
 
 ℹ️ Information is available on the different talky module on the sidebar
 
