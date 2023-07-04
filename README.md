@@ -9,7 +9,6 @@
      
 
 
-<dl>
 ℹ️ Information is available on the different talky modules
 <br>
 🐛 If you find an issue you'd like to report, or otherwise have feedback, please add a new Issue <a href="https://github.com/mraniki/tt/issues"><img src="https://badgen.net/github/open-issues/mraniki/tt" /></a>
@@ -23,7 +22,7 @@
 🍩 If you like it, feel free to <a href="https://coindrop.to/mraniki"><img src="https://badgen.net/badge/icon/coindrop/6F4E37?icon=buymeacoffee&label"/></a>
 <br>
 ⚠️ This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. For DEX, Never share your private keys. NEVER use your main account for automatic trade
- </dl>   
+  
 
 <details close>
 <summary><h2>Get started</h2></summary>
