@@ -47,7 +47,7 @@
 <details close>
 <summary>settings example</summary>
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample_settings.toml&style=default&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample_settings.toml&style=nnfx-dark&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></script>
 
 </details>
 
@@ -75,9 +75,7 @@
 <details close>
 <summary>env vars list</summary>
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2F4a3e51032802ede12bd20cee12ed4a4396337575%2Fexamples%2Fexample.env%23L2-L114&style=nnfx-dark&type=code&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
-
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample.env&style=default&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2F4a3e51032802ede12bd20cee12ed4a4396337575%2Fexamples%2Fexample.env&style=nnfx-dark&type=code&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
 </details>
 
