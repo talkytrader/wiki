@@ -1,113 +1,116 @@
-<head>
-  <meta name="color-scheme" content="light dark">
-</head>
-<h2>🗿 TalkyUniverse</h2>
+# The Midnight theme
 
-<img src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="200" height="200">
-<div align="left">
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/midnight/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/midnight/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-midnight.svg)](https://badge.fury.io/rb/jekyll-theme-midnight)
 
+*Midnight is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/midnight), or even [use it today](#usage).*
 
+![Thumbnail of Midnight](thumbnail.png)
 
-Submit trading order to CEX & DEX with multi messaging platform and plugin support
-<br>
-<p align="left">
-<a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a>
-<a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/github/stars/mraniki/tt?style=for-the-badge"></a>
-<a href="https://github.com/mraniki/tt/issues"><img src="https://img.shields.io/github/issues/mraniki/tt?style=for-the-badge"></a><br>
-<a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a>
-<a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://t.me/TTTalkyTraderChat/1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/CoinDrop-000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
+## Usage
 
-</p>
+To use the Midnight theme:
 
+1. Add the following to your site's `_config.yml`:
 
+    ```yml
+    remote_theme: pages-themes/midnight@v0.2.0
+    plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    ```
 
-<img align="right" width="194" alt="screenshot" src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
-<details close>
-<summary>Get started</summary>
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-<ol>
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
-<li>Create your channel/room and your platform bot
-<ul>
-<li>Telegram via <a href="https://core.telegram.org/bots/tutorial">Telegram @BotFather</a> and <a href="https://docs.telethon.dev/en/stable/basic/signing-in.html">create an API key</a> </li>
-<li>Discord via <a href="https://discord.com/developers/docs/intro">Discord Dev portal</a></li>
-<li>Matrix via <a href="https://turt2live.github.io/matrix-bot-sdk/index.html">Matrix.org</a></li>
-</ul></li>
-<li>Get your
-<ul>
-<li>DEX wallet address and private key</li>
-<li>CEX API Keys supported by <a href="https://github.com/ccxt/ccxt">CCXT</a></li>
-</ul></li>
+## Customizing
 
-<li>Create your config file settings.toml or use env variables</li>
+### Configuration variables
 
-<details close>
-<summary>settings example</summary>
+Midnight will respect the following variables, if set in your site's `_config.yml`:
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample_settings.toml&style=default&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></script>
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
-</details>
+Additionally, you may choose to set the following optional variables:
 
-<li>Deploy via:
-   <ul> 
-<li>docker 
-          <code>docker pull mraniki/tt:latest</code> or <code>docker pull ghcr.io/mraniki/tt:latest</code></li>
-<li>locally 
-          <code>git clone https://github.com/mraniki/tt:main</code> && <code>pip install -r requirements.txt</code> </li>
-</ul></li>
+```yml
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
-<li>Start your container or if deployed locally use <code>python3 bot.py</code> to start </li>
-<li>Try it now</li>
+### Stylesheet
 
-<a href="https://app.koyeb.com/deploy?type=docker&image=docker.io/mraniki/tt&name=tt-demo"><img src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?style=for-the-badge&logo=koyeb"></a>
-</ol>
+If you'd like to add your own custom styles:
 
-</details>
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
 
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-<details close>
-<summary>Config</summary>
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
-<details close>
-<summary>env vars list</summary>
+### Layouts
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample.env&style=default&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></script>
+If you'd like to change the theme's HTML layout:
 
-</details>
+1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/midnight/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/midnight/blob/master/_layouts/default.html).
+2. For more extensive changes, [copy the original template](https://github.com/pages-themes/midnight/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+3. Create a file called `/_layouts/default.html` in your site
+4. Paste the default layout content copied in the first step
+5. Customize the layout as you'd like
 
-</details>
+### Customizing Google Analytics code
 
-<details close>
-<summary>Modules</summary>
+Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
 
-<h4>Talky</h4>
-  
-<a href="https://talkyuniverse.readthedocs.io/projects/talky/">Submit trading order to CEX & DEX with multi messaging platform and plugin support</a>
+### Overriding GitHub-generated URLs
 
-<h4>FindMyOrder</h4>
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
 
-<a href="https://talkyuniverse.readthedocs.io/projects/fyndmyorder/">Find that order</a>
+1. Look at [the template source](https://github.com/pages-themes/midnight/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
+2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+    ```yml
+    github:
+      zip_url: http://example.com/download.zip
+      another_url: another value
+    ```
+3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
 
-<h4>DXSP</h4>
+*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
 
-<a href="https://talkyuniverse.readthedocs.io/projects/dxsp/">Swap made easy</a>
+For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
-<h4>IamListening</h4>
+## Roadmap
 
-Build a chat listener bot
-<a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/">Find that order</a>
+See the [open issues](https://github.com/pages-themes/midnight/issues) for a list of proposed features (and known issues).
 
-<h4>TalkyTrend</h4>
+## Project philosophy
 
-<a href="https://talkyuniverse.readthedocs.io/projects/talkytrend/">Get the trend</a>
+The Midnight theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
-</details>
+## Contributing
 
+Interested in contributing to Midnight? We'd love your help. Midnight is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
-<HR>
-⚠️ <em>This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. For DEX, Never share your private keys. NEVER use your main account for automatic trade</em>
+### Previewing the theme locally
 
-</div>
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/midnight`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+### Running tests
+
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
