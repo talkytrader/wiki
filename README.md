@@ -13,7 +13,7 @@
 <!-- <a href="https://github.com/mraniki/tt/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/mraniki/tt?style=for-the-badge&color=blue"></a> -->
 Connect CEX and DEX exchanges across multi messaging platforms.<br>
 Place order, inquire your balance and more through plugins.<br>
-Easily deploy via Docker on self-hosted platforms or Paas.<br>
+Easily deploy via Docker on self-hosted platform or Paas.<br>
 <br>
 <p align="left">
 
