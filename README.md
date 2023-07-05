@@ -9,7 +9,7 @@
 
 
 Submit trading order to CEX & DEX with multi messaging platform and plugin support
-<br>
+<br><br>
 <p align="left">
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a>
@@ -22,7 +22,7 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 
 </p>
 
-
+<br>
 
 <img align="right" width="194" alt="screenshot" src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
 <details close>
@@ -67,6 +67,7 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 
 </details>
 
+<br>
 
 <details close>
 <summary>Config</summary>
@@ -79,6 +80,8 @@ Submit trading order to CEX & DEX with multi messaging platform and plugin suppo
 </details>
 
 </details>
+
+<br>
 
 <details close>
 <summary>Modules</summary>
