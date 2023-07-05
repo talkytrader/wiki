@@ -84,7 +84,7 @@
 <br>
 
 <details close>
-<summary>Modules</summary>
+<summary>Plugins</summary>
 
 <h4>Talky</h4>
   
