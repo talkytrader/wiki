@@ -20,8 +20,7 @@
 <a href="https://github.com/mraniki/tt/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/mraniki/tt?style=for-the-badge&color=blue">
 </a><br>
 <a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/CoinDrop-292929?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
-<a href="https://t.me/TTTalkyTraderChat/1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://discord.gg/gMNERs5M9"><img alt="Discord" src="https://img.shields.io/discord/1049307055867035648?style=for-the-badge&logo=discord&logoColor=white&label=%20%20&color=blue"></a>
+<a href="https://t.me/TTTalkyTraderChat/1"><img alt="Static Badge" src="https://img.shields.io/badge/talky-blue?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://discord.gg/gMNERs5M9"><img alt="Discord" src="https://img.shields.io/discord/1049307055867035648?style=for-the-badge&logo=discord&logoColor=white&label=%20%20&color=blue"></a>
 <br><br>
 </p>
 
