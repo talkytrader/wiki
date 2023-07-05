@@ -7,7 +7,7 @@
 <div align="left">
 
 
-CEX & DEX integration with messaging platform and plugin support.
+<!-- CEX & DEX integration with messaging platform and plugin support.-->
 
 <br><br>
 <p align="left">
