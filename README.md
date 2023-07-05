@@ -1,7 +1,7 @@
 <head>
   <meta name="color-scheme" content="light dark">
 </head>
-<h2>🗿 TalkyUniverse</h2>
+<!-- <h2>🗿 TalkyUniverse</h2> -->
 
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="200" height="200">
 <div align="left">
