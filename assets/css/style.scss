@@ -2,4 +2,9 @@
 ---
 
 @import "jekyll-theme-midnight";
-color-scheme: dark;
+:root {
+ --body-bg: #EEE2DC;
+ --body-color: #AC3B61;
+ --body-link-color: #AC3B61;
+ --card-bg: #EDC7B7;
+}
