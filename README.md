@@ -6,7 +6,7 @@
 <img src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="200" height="200">
 <div align="left">
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=100&color=027CF9&multiline=true&repeat=false&width=600&height=60&lines=Connect+CEX+and+DEX+exchanges+across+multi+messaging+platforms.;Place+order%2C+inquire+your+balance+and+more+through+plugins.;Easily+deploy+via+Docker+on+self-hosted+platforms+or+PaaS.">
 
 CEX & DEX integration with messaging platform and plugin support.
 
@@ -24,7 +24,6 @@ CEX & DEX integration with messaging platform and plugin support.
 
 </p>
 
-<br>
 
 <img align="right" width="194" alt="screenshot" src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
 <details close>
