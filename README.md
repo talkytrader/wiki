@@ -10,15 +10,15 @@
 <br>
 <p align="left">
 
-<a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a>
-<a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
+<a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23292929.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a>
+<a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a><br>
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23292929.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/github/stars/mraniki/tt?style=for-the-badge"></a>
 <a href="https://github.com/mraniki/tt/issues"><img src="https://img.shields.io/github/issues/mraniki/tt?style=for-the-badge"></a><br>
-<a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/CoinDrop-292929?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
 <a href="https://t.me/TTTalkyTraderChat/1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/CoinDrop-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
-<br>
+<a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<br><br>
 </p>
 
 
