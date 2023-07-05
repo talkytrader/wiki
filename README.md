@@ -1,11 +1,11 @@
 
 <!-- <h2>🗿 TalkyUniverse</h2> -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=100&color=027CF9&multiline=true&repeat=false&width=600&height=60&lines=Connect+CEX+and+DEX+exchanges+across+multi+messaging+platforms.;Place+order%2C+inquire+your+balance+and+more+through+plugins.;Easily+deploy+via+Docker+on+self-hosted+platforms+or+PaaS."><br>
-<img src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="150" height="150">
+<!-- CEX & DEX integration with messaging platform and plugin support.-->
+<img  alt="logo" src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="150" height="150">
 <div align="left">
 
 
-<!-- CEX & DEX integration with messaging platform and plugin support.-->
 
 <br>
 <p align="left">
@@ -18,7 +18,7 @@
 <a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://t.me/TTTalkyTraderChat/1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/CoinDrop-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
-
+<br>
 </p>
 
 
