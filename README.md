@@ -4,6 +4,7 @@
 <!-- <h2>🗿 TalkyUniverse</h2> -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=100&color=027CF9&multiline=true&repeat=false&width=600&height=60&lines=Connect+CEX+and+DEX+exchanges+across+multi+messaging+platforms.;Place+order%2C+inquire+your+balance+and+more+through+plugins.;Easily+deploy+via+Docker+on+self-hosted+platforms+or+PaaS."><br><br>
 <!-- CEX & DEX integration with messaging platform and plugin support.-->
+
 <img  alt="logo" src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="100" height="100">
 <div align="left">
 
