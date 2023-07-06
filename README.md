@@ -145,6 +145,21 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
   </tr>
 </table>
 
+<h5>How to use it</h5>
+<pre>
+<code>
+      from findmyorder import FindMyOrder
+         fmo = FindMyOrder()
+         msg_order = "buy EURUSD sl=1000 tp=1000 q=1 comment=FOMC"
+         order = await fmo.get_order(msg_order)
+         #{'action': 'BUY', 'instrument': 'EURUSD', 'stop_loss': '1000', 'take_profit': '1000', 'quantity': '2', 'order_type': None, 'leverage_type': None, 'comment': None, 'timestamp': datetime.datetime(2023, 5, 3, 12, 10, 28, 731282, tzinfo=datetime.timezone.utc)}
+</code>
+</pre>
+
+<h5>Example</h5>
+
+https://github.com/mraniki/findmyorder/blob/main/examples/example.py
+
 <h4>DXSP</h4>
 <br>
 <table style="border: 1px solid transparent">
@@ -174,6 +189,21 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
      
   </tr>
 </table>
+<h5>How to use it</h5>
+<pre>
+<code>
+   from dxsp import DexSwap
+
+    dex = DexSwap()
+    #BUY 10 USDT to SWAP with BITCOIN
+    demo_tx = await dex.get_swap('USDT','wBTC',10)
+    print("demo_tx ", demo_tx)
+</code>
+</pre>
+<h5>Example</h5>
+
+https://github.com/mraniki/dxsp/blob/main/examples/example.py
+
 
 <h4>IamListening</h4>
 <br>
@@ -203,6 +233,25 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
      
   </tr>
 </table>
+<h5>How to use it</h5>
+<pre>
+<code>
+      from iamlistening import Listener
+        listener = Listener()
+        task = asyncio.create_task(listener.run_forever())
+        while True:
+          try:
+              msg = await listener.get_latest_message()
+              if msg:
+                  print(f"Frasier👂: {msg}"
+          except Exception as error:
+              print(error)
+        await task
+</code>
+</pre>
+<h5>Example</h5>
+
+https://github.com/mraniki/iamlistening/blob/main/examples/example.py
 
 <h4>TalkyTrend</h4>
 <br>
@@ -228,14 +277,33 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
       <a href="https://codecov.io/gh/mraniki/talkytrend"><img src="https://codecov.io/gh/mraniki/talkytrend/branch/main/graph/badge.svg?token=WAHUEMAJN6"/></a><br>
     </td>
     <td align="left"> 
-- trading view connectivity with signal scanner
-- news connectivity 
-- FOMC reminder
+A python package to retrieve asset trend and economic data.
+- Trading view connectivity with signal scanner<br>
+- News connectivity <br>
+- FOMC reminder<br>
     </td>
      
   </tr>
 </table>
+<h5>How to use it</h5>
+<pre>
+<code>
+    talky = TalkyTrend()
+    result = await talky.check_signal()
+    #  BUY
+    result = await talky.fetch_key_events()
+    print(result)
+    #  Title:  FDA advisers say new Alzheimer’s drug lecanemab slows cognitive decline
+    # Description:  Panel’s opinion could pave way for full regulatory approval next month for treatment of disease that affects 6.5m Americans
+    monitor = await talky.scanner() #ongoing monitoring
+    # New signal for BTCUSD (4h): STRONG_SELL
+    # Key event: {'title': 'OPEC-JMMC Meetings', 'country': 'ALL', 'date': '2023-06-04T06:15:00-04:00', 'impact': 'High', 'forecast': '', 'previous': ''}\
+    # Key news: FDA advisers say new Alzheimer’s drug lecanemab slows cognitive decline
+</code>
+</pre>
+<h5>Example</h5>
 
+https://github.com/mraniki/talkytrend/blob/main/examples/example.py
 </details>
 
 <br><br>
