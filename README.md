@@ -1,9 +1,7 @@
 <br>
 <br>
 
-<!-- <h2>🗿 TalkyUniverse</h2> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=100&color=027CF9&multiline=true&repeat=false&width=600&height=60&lines=Connect+CEX+and+DEX+exchanges+across+multi+messaging+platforms.;Place+order%2C+inquire+your+balance+and+more+through+plugins.;Easily+deploy+via+Docker+on+self-hosted+platforms+or+PaaS."><br><br>-->
-<!-- CEX & DEX integration with messaging platform and plugin support.-->
+
 
 
 
@@ -30,7 +28,6 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <summary>Get started</summary>
 
 <ol>
-
 <li>Create your channel/room and your platform bot
 <ul>
 <li>Telegram via <a href="https://core.telegram.org/bots/tutorial">Telegram @BotFather</a> and <a href="https://docs.telethon.dev/en/stable/basic/signing-in.html">create an API key</a> </li>
@@ -42,11 +39,12 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <li>DEX wallet address and private key</li>
 <li>CEX API Keys supported by <a href="https://github.com/ccxt/ccxt">CCXT</a></li>
 </ul></li>
-
 <li>Create your config file settings.toml or use env variables</li>
 
 <details close>
 <summary>settings example</summary>
+   
+<!-- https://github.com/mraniki/tt/blob/4a3e51032802ede12bd20cee12ed4a4396337575/examples/example_settings.toml#L2-->
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample_settings.toml&style=nnfx-dark&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></script>
 
@@ -59,10 +57,8 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <li>locally 
           <code>git clone https://github.com/mraniki/tt:main</code> && <code>pip install -r requirements.txt</code> </li>
 </ul></li>
-
 <li>Start your container or if deployed locally use <code>python3 bot.py</code> to start </li>
 <li>Try it now</li>
-
 <a href="https://app.koyeb.com/deploy?type=docker&image=docker.io/mraniki/tt&name=tt-demo"><img src="https://img.shields.io/badge/Deploy%20on%20Koyeb-blue?style=for-the-badge&logo=koyeb"></a>
 </ol>
 
@@ -75,6 +71,8 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 
 <details close>
 <summary>env vars list</summary>
+
+<!-- https://github.com/mraniki/tt/blob/4a3e51032802ede12bd20cee12ed4a4396337575/examples/example.env#L2-->
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2F4a3e51032802ede12bd20cee12ed4a4396337575%2Fexamples%2Fexample.env&style=nnfx-dark&type=code&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
@@ -102,11 +100,11 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
     <td>
       <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
-     <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
-     <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
+     <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1"></a><br>
+<!--      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br> -->
         <a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
-    <td> <br>Connect CEX and DEX exchanges across multi messaging platforms and plugin support.<br>    </td>
+    <td> <br>Connect CEX and DEX exchanges across multi messaging platforms and plugin support.<br></td>
      
   </tr>
 </table>
@@ -133,7 +131,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
       <a href="https://codebeat.co/projects/github-com-mraniki-findmyorder-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/findmyorder/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
      <a href="https://codecov.io/gh/mraniki/findmyorder"><img src="https://codecov.io/gh/mraniki/findmyorder/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
-     <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
+<!--      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br> -->
         <a href="https://talkyuniverse.readthedocs.io/projects/fyndmyorder/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
     <td> <br>Find My order, a python parsing package to find trading order<br>    </td>
@@ -190,7 +188,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
       <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
      <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
-     <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
+<!--      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br> -->
         <a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
     <td> <br>Build a chat listener bot<br>    </td>
@@ -220,7 +218,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
       <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
      <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
-     <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
+<!--      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br> -->
         <a href="https://talkyuniverse.readthedocs.io/projects/talkytrend/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
     <td> <br>A python package to retrieve asset trend and economic data.<br>    </td>
@@ -228,13 +226,11 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
   </tr>
 </table>
 
-
 </details>
 
 
 <br><br>
 Built with<br>
-
 <img src="https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
 <img src="https://img.shields.io/badge/uvicorn-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
 <img src="https://img.shields.io/badge/apprise-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
@@ -243,8 +239,6 @@ Built with<br>
 <img src="https://img.shields.io/badge/dxsp-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
 <img src="https://img.shields.io/badge/iamlistening-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
 <img src="https://img.shields.io/badge/talkytrend-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
-
-
 <br><br>
 
 
