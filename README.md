@@ -195,7 +195,6 @@ Trade on any blockchains mainnet or testnet supported by web3py, for uniswap bas
 - Quote a given token
 - Use Base trading symbol like stablecoin for risk management approach
 - Settings to use the module for your own setup
-
     </td>
      
   </tr>
@@ -204,7 +203,6 @@ Trade on any blockchains mainnet or testnet supported by web3py, for uniswap bas
 <pre>
 <code>
    from dxsp import DexSwap
-
     dex = DexSwap()
     #BUY 10 USDT to SWAP with BITCOIN
     demo_tx = await dex.get_swap('USDT','wBTC',10)
