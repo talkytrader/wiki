@@ -90,7 +90,6 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <summary>Plugins</summary>
 
 <h4>Talky</h4>
-  
 
 <table>
   <tr>
@@ -99,22 +98,25 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a><br>
 <a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/tips-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
 <a href="https://t.me/TTTalkyTraderChat/1"><img alt="Static Badge" src="https://img.shields.io/badge/talky-blue?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://discord.gg/gMNERs5M9"><img alt="Discord" src="https://img.shields.io/discord/1049307055867035648?style=for-the-badge&logo=discord&logoColor=white&label=%20%20&color=blue"></a></td>
-    <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/226854338-e900f69e-d884-4a9a-90b1-b3dde7711b31.png"> <br> </td>
+    <td align="center"><img width="200" alt="Logo" src="https://i.imgur.com/Q7iDDyB.jpg"> <br> </td>
   </tr>
   <tr>
-<!--     <td><a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a><br>
+    <td>
+<!--        <a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a><br>
     <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend"></a>
      <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/dm/talkytrend"><br> -->
       <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
      <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
-        <a href="https://talkyuniverse.readthedocs.io/projects/talky/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
+        <a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
     <td> <br>Connect CEX and DEX exchanges across multi messaging platforms and plugin support.<br>
-   
+     
   </tr>
 </table>
+
+
 
 
 <h4>FindMyOrder</h4>
