@@ -89,7 +89,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 
 <h4>Talky</h4>
 
-<table>
+<table style="border: 1px solid transparent">
   <tr>
     <td><a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -117,7 +117,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <h4>FindMyOrder</h4>
 
 
-<table>
+<table style="border: 1px solid transparent">
   <tr>
     <td><a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -145,7 +145,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 
 <h4>DXSP</h4>
 
-<table>
+<table style="border: 1px solid transparent">
   <tr>
     <td><a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -174,7 +174,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <h4>IamListening</h4>
 
 
-<table>
+<table style="border: 1px solid transparent">
   <tr>
     <td><a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -204,7 +204,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <h4>TalkyTrend</h4>
 
 
-<table>
+<table style="border: 1px solid transparent">
   <tr>
     <td><a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
