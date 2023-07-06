@@ -105,7 +105,8 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
    <a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge&logo=Docker&logoColor=white"></a><br>
    <a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/tt/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
     </td>
-    <td> <br>Connect CEX and DEX exchanges across multi messaging platforms with plugin support.</td>
+    <td> Connect CEX and DEX exchanges <br>across multi messaging platforms <br>with plugin support.
+    </td>
      
   </tr>
 </table>
@@ -132,9 +133,10 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
    <a href="https://talkyuniverse.readthedocs.io/projects/fyndmyorder/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest&style=for-the-badge"></a><br>
    <a href="https://codebeat.co/projects/github-com-mraniki-findmyorder-main"><img src="https://codebeat.co/badges/9b113098-d22d-498d-9c61-eb1e96c1311a"/></a><br>
    <a href="https://codecov.io/gh/mraniki/findmyorder"><img src="https://codecov.io/gh/mraniki/findmyorder/branch/main/graph/badge.svg?token=4838MSZNCC"/> </a><br>
-
     </td>
-    <td> <br>Find My order, <br>a parsing package to find trading order</td>
+    <td> Find My order,<br>
+       a parsing package to find trading order
+    </td>
      
   </tr>
 </table>
@@ -152,7 +154,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/discord/1049307055867035648?style=for-the-badge&logo=discord&logoColor=white&label=%20%20&color=blue"></a>
   </td>
     <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/231213427-63ea2752-13d5-4993-aee2-90671b57fc6e.png"></td>
-  </tr> -->9ba9d60965bc2bb21b530fbdf2eb4319fb04b495
+  </tr> -->
   <tr>
     <td>
       <a href="https://pypi.org/project/dxsp/"><img src="https://img.shields.io/pypi/v/dxsp?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
@@ -161,9 +163,9 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
    <a href="https://talkyuniverse.readthedocs.io/projects/dxsp/"><img src="https://readthedocs.org/projects/dxsp/badge/?version=latest&style=for-the-badge"></a><br>
    <a href="https://codebeat.co/projects/github-com-mraniki-dxsp-main"><img src="https://codebeat.co/badges/b1376839-73bc-4b41-bfc1-2fb099f1fc2a"/></a><br>
    <a href="https://codecov.io/gh/mraniki/dxsp"><img src="https://codecov.io/gh/mraniki/dxsp/branch/main/graph/badge.svg?token=39ED0ZA6IH"/> </a><br>
-
     </td>
-    <td> <br>Swap made easy</td>
+    <td> Swap made easy
+    </td>
      
   </tr>
 </table>
@@ -189,9 +191,10 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
    <a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/"><img src="https://readthedocs.org/projects/iamlistening/badge/?version=latest&style=for-the-badge"></a><br>
    <a href="https://codebeat.co/projects/github-com-mraniki-iamlistening-main"><img src="https://codebeat.co/badges/4085334e-4590-41f6-a70c-69e9a2641c79"/></a><br>
    <a href="https://codecov.io/gh/mraniki/iamlistening"> <img src="https://codecov.io/gh/mraniki/iamlistening/branch/main/graph/badge.svg?token=QZ55U6KQFN"/></a><br>
-
     </td>
-    <td> <br>Build a chat listener bot</td>
+    <td> 
+       Build a chat listener bot
+    </td>
      
   </tr>
 </table>
@@ -219,7 +222,10 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
       <a href="https://codebeat.co/projects/github-com-mraniki-talkytrend-main"><img src="https://codebeat.co/badges/24c90aab-02d7-4cd1-9ad8-5907e180c9e6"/></a> <br>
       <a href="https://codecov.io/gh/mraniki/talkytrend"><img src="https://codecov.io/gh/mraniki/talkytrend/branch/main/graph/badge.svg?token=WAHUEMAJN6"/></a><br>
     </td>
-    <td> <br>A package to retrieve asset trend <br>and economic data.</td>
+    <td> 
+       A package to retrieve asset trend <br>
+       and economic data.
+    </td>
      
   </tr>
 </table>
