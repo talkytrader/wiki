@@ -87,7 +87,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <summary>Plugins</summary>
 
 <h4>Talky</h4>
-
+<br>
 <table style="border: 1px solid transparent">
 <!--   <tr>
     <td>
@@ -110,7 +110,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
      
   </tr>
 </table>
-
+<br>
 <h4>FindMyOrder</h4>
 
 <table style="border: 1px solid transparent">
@@ -142,7 +142,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 </table>
 
 <h4>DXSP</h4>
-
+<br>
 <table style="border: 1px solid transparent">
 <!--   <tr>
     <td>
@@ -172,7 +172,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 </table>
 
 <h4>IamListening</h4>
-
+<br>
 <table style="border: 1px solid transparent">
 <!--   <tr>
     <td>
@@ -201,7 +201,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 </table>
 
 <h4>TalkyTrend</h4>
-
+<br>
 <table style="border: 1px solid transparent">
 <!--   <tr>
     <td>
