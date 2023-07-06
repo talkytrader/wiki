@@ -219,16 +219,14 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
   </tr>
   <tr>
     <td>
-      <a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a>
       <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend?style=for-the-badge"></a><br>
       <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/dm/talkytrend?style=for-the-badge&logo=PyPI&logoColor=white&label=pypi&labelColor=grey">
 </a><br>
-      <a href="https://codebeat.co/projects/github-com-mraniki-talkytrend-main"><img src="https://codebeat.co/badges/24c90aab-02d7-4cd1-9ad8-5907e180c9e6"/></a> <br>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
-      <a href="https://codecov.io/gh/mraniki/talkytrend"><img src="https://codecov.io/gh/mraniki/talkytrend/branch/main/graph/badge.svg?token=WAHUEMAJN6"/></a>
-        <br>
-<!--      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br> -->
-        <a href="https://talkyuniverse.readthedocs.io/projects/talkytrend/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
+      <a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/tt/%F0%9F%91%B7Flow.yml?style=for-the-badge"></a><br>
+      <a href="https://codebeat.co/projects/github-com-mraniki-talkytrend-main"><img src="https://codebeat.co/badges/24c90aab-02d7-4cd1-9ad8-5907e180c9e6"/></a> <br>
+      <a href="https://codecov.io/gh/mraniki/talkytrend"><img src="https://codecov.io/gh/mraniki/talkytrend/branch/main/graph/badge.svg?token=WAHUEMAJN6"/></a><br>
+      <a href="https://talkyuniverse.readthedocs.io/projects/talkytrend/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
     <td> <br>A package to retrieve asset trend <br>and economic data.</td>
      
