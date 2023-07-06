@@ -1,10 +1,6 @@
 <br>
 <br>
 
-
-
-
-
 <img  alt="logo" src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="200" height="200">
 <div align="left">
 <!-- <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/github/stars/mraniki/tt?style=for-the-badge"></a>-->
@@ -158,7 +154,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 
 <h5>Example</h5>
 
-https://github.com/mraniki/findmyorder/blob/main/examples/example.py
+https://github.com/mraniki/findmyorder/blob/6211e686abf1321ab3d5a8ac33068f854b0e9336/examples/example.py#L1-L90
 
 <h4>DXSP</h4>
 <br>
@@ -205,7 +201,7 @@ Trade on any blockchains with uniswap based router or 0x protocol.
 
 <h5>Example</h5>
 
-https://github.com/mraniki/dxsp/blob/main/examples/example.py
+https://github.com/mraniki/dxsp/blob/f76fd035eddadc4de2a8509a7c26250c187b0658/examples/example.py#L1-L68
 
 
 <h4>IamListening</h4>
@@ -257,7 +253,7 @@ https://github.com/mraniki/dxsp/blob/main/examples/example.py
 
 <h5>Example</h5>
 
-https://github.com/mraniki/iamlistening/blob/main/examples/example.py
+https://github.com/mraniki/iamlistening/blob/52db0f4c194fe9edd12f48199737b4e1c73f7194/examples/example.py#L1-L54
 
 <h4>TalkyTrend</h4>
 <br>
@@ -295,7 +291,8 @@ News connectivity<br>
 <h5>How to use it</h5>
 <pre>
 <code>
-    talky = TalkyTrend()
+   from talkytrend import TalkyTrend
+   talky = TalkyTrend()
     result = await talky.check_signal()
     #  BUY
     result = await talky.fetch_key_events()
@@ -310,8 +307,8 @@ News connectivity<br>
 </pre>
 
 <h5>Example</h5>
+https://github.com/mraniki/talkytrend/blob/af472db335afec4e6a643077f7483d030e8511ac/examples/example.py#L1-L50
 
-https://github.com/mraniki/talkytrend/blob/main/examples/example.py
 </details>
 
 <br><br>
