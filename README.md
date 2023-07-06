@@ -233,14 +233,14 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 </details>
 
 <br><br>
-Built with<br>
-<img src="https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
-<img src="https://img.shields.io/badge/uvicorn-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
-<img src="https://img.shields.io/badge/apprise-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
-<img src="https://img.shields.io/badge/CCXT-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
-<img src="https://img.shields.io/badge/findmyorder-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+<img src="https://img.shields.io/badge/uvicorn-005571?style=for-the-badge&logo=fastapi">
+<img src="https://img.shields.io/badge/apprise-005571?style=for-the-badge&logo=chatbot"><br>
+<img src="https://img.shields.io/badge/CCXT-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
 <img src="https://img.shields.io/badge/dxsp-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
-<img src="https://img.shields.io/badge/iamlistening-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
+<img src="https://img.shields.io/badge/findmyorder-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
+<img src="https://img.shields.io/badge/iamlistening-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
 <img src="https://img.shields.io/badge/talkytrend-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
 <br><br>
 
