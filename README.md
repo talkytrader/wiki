@@ -217,8 +217,8 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
     <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/226854338-e900f69e-d884-4a9a-90b1-b3dde7711b31.png"> <br> </td>
   </tr>
   <tr>
-    <td><a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a><br>
-    <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend"></a>
+    <td><a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a>
+    <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend"></a><br>
      <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/dm/talkytrend"><br>
       <a href="https://codebeat.co/projects/github-com-mraniki-talkytrend-main"><img alt="codebeat badge" src="https://codebeat.co/badges/24c90aab-02d7-4cd1-9ad8-5907e180c9e6" /></a> <br>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
