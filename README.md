@@ -318,7 +318,7 @@ https://github.com/mraniki/talkytrend/blob/af472db335afec4e6a643077f7483d030e851
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 <img src="https://img.shields.io/badge/uvicorn-005571?style=for-the-badge&logo=fastapi">
 <img src="https://img.shields.io/badge/apprise-005571?style=for-the-badge&logo=chatbot"><br>
-<img src="https://img.shields.io/badge/CCXT-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
+<img src="https://img.shields.io/badge/CCXT-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
 <img src="https://img.shields.io/badge/dxsp-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
 <img src="https://img.shields.io/badge/findmyorder-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
 <img src="https://img.shields.io/badge/iamlistening-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
