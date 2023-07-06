@@ -236,6 +236,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 
 </details>
 
+
 <br><br>
 Built with<br>
 
@@ -253,6 +254,7 @@ Built with<br>
 
 
 <HR>
-⚠️ <em>This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. Never share your private keys or API secrets. NEVER use your main account for automatic trade. DYOR.</em>
+⚠️ <em>This is an education tool and should not be considered professional financial investment system nor financial advice. Use a testnet account or USE AT YOUR OWN RISK. Never share your private keys or API secrets.<br>Never use your main account for automatic trade.<br>DYOR.</em>
 
 </div>
+
