@@ -102,9 +102,9 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
     <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/226854338-e900f69e-d884-4a9a-90b1-b3dde7711b31.png"> <br> </td>
   </tr>
   <tr>
-    <td><a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a><br>
+<!--     <td><a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a><br>
     <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend"></a>
-     <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/dm/talkytrend"><br>
+     <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/dm/talkytrend"><br> -->
       <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
      <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
@@ -130,12 +130,12 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
     <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/226854338-e900f69e-d884-4a9a-90b1-b3dde7711b31.png"> <br> </td>
   </tr>
   <tr>
-    <td><a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a><br>
-    <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend"></a>
-     <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/dm/talkytrend"><br>
-      <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
-      <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
-     <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
+    <td><a href="https://pypi.org/project/findmyorder/"><img src="https://badgen.net/badge/icon/findmyorder?icon=pypi&label"></a><br>
+    <a href="https://pypi.org/project/findmyorder/"><img src="https://img.shields.io/pypi/v/findmyorder"></a>
+     <a href="https://pypi.org/project/findmyorder/"><img src="https://img.shields.io/pypi/dm/findmyorder"><br>
+      <a href="https://codebeat.co/projects/github-com-mraniki-findmyorder-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
+      <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/findmyorder/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
+     <a href="https://codecov.io/gh/mraniki/findmyorder"><img src="https://codecov.io/gh/mraniki/findmyorder/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
         <a href="https://talkyuniverse.readthedocs.io/projects/fyndmyorder/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
@@ -158,14 +158,14 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
     <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/226854338-e900f69e-d884-4a9a-90b1-b3dde7711b31.png"> <br> </td>
   </tr>
   <tr>
-    <td><a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a><br>
-    <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend"></a>
-     <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/dm/talkytrend"><br>
-      <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
-      <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
-     <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
-     <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
-        <a href="https://talkyuniverse.readthedocs.io/projects/dxsp/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
+    <td><a href="https://pypi.org/project/dxsp/"><img src="https://badgen.net/badge/icon/dxsp?icon=pypi&label"></a><br>
+    <a href="https://pypi.org/project/dxsp/"><img src="https://img.shields.io/pypi/v/dxsp"></a>
+     <a href="https://pypi.org/project/dxsp/"><img src="https://img.shields.io/pypi/dm/dxsp"><br>
+      <a href="https://codebeat.co/projects/github-com-mraniki-dxsp-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
+      <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/dxsp/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
+     <a href="https://codecov.io/gh/mraniki/dxsp"><img src="https://codecov.io/gh/mraniki/dxsp/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
+<!--      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br> -->
+        <a href="https://talkyuniverse.readthedocs.io/projects/dxsp/"><img src="https://readthedocs.org/projects/dxsp/badge/?version=latest"></a><br>
     </td>
     <td> <br>Swap made easy<br>
      
