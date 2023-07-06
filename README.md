@@ -114,6 +114,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
   </tr>
 </table>
 <br>
+
 <h4>FindMyOrder</h4>
 
 <table style="border: 1px solid transparent">
@@ -143,8 +144,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 - Identify an order with word `BUY SELL LONG SHORT` or your own `Bull`, `to the moon`, `pump` via config file
 - Parse and return a structured order with action and instrument as mandatory
 - Capability to map a given instrument to a new one (e.g BTC to WBTC or ETHUSD to ETH)
-    </td>
-     
+     </td>
   </tr>
 </table>
 
@@ -165,6 +165,7 @@ https://github.com/mraniki/findmyorder/blob/main/examples/example.py
 
 <h4>DXSP</h4>
 <br>
+
 <table style="border: 1px solid transparent">
 <!--   <tr>
     <td>
@@ -199,6 +200,7 @@ Trade on any blockchains mainnet or testnet supported by web3py, for uniswap bas
      
   </tr>
 </table>
+
 <h5>How to use it</h5>
 <pre>
 <code>
@@ -209,6 +211,7 @@ Trade on any blockchains mainnet or testnet supported by web3py, for uniswap bas
     print("demo_tx ", demo_tx)
 </code>
 </pre>
+
 <h5>Example</h5>
 
 https://github.com/mraniki/dxsp/blob/main/examples/example.py
@@ -243,6 +246,7 @@ https://github.com/mraniki/dxsp/blob/main/examples/example.py
      
   </tr>
 </table>
+
 <h5>How to use it</h5>
 <pre>
 <code>
@@ -259,6 +263,7 @@ https://github.com/mraniki/dxsp/blob/main/examples/example.py
         await task
 </code>
 </pre>
+
 <h5>Example</h5>
 
 https://github.com/mraniki/iamlistening/blob/main/examples/example.py
@@ -295,6 +300,7 @@ A python package to retrieve asset trend and economic data.
      
   </tr>
 </table>
+
 <h5>How to use it</h5>
 <pre>
 <code>
@@ -311,6 +317,7 @@ A python package to retrieve asset trend and economic data.
     # Key news: FDA advisers say new Alzheimer’s drug lecanemab slows cognitive decline
 </code>
 </pre>
+
 <h5>Example</h5>
 
 https://github.com/mraniki/talkytrend/blob/main/examples/example.py
