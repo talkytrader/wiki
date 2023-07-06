@@ -105,7 +105,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
    <a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge&logo=Docker&logoColor=white"></a><br>
    <a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/tt/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
     </td>
-    <td> Connect CEX and DEX exchanges <br>across multi messaging platforms <br>with plugin support.
+    <td align="center"> Connect CEX and DEX exchanges <br>across multi messaging platforms <br>with plugin support.
     </td>
      
   </tr>
@@ -134,7 +134,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
    <a href="https://codebeat.co/projects/github-com-mraniki-findmyorder-main"><img src="https://codebeat.co/badges/9b113098-d22d-498d-9c61-eb1e96c1311a"/></a><br>
    <a href="https://codecov.io/gh/mraniki/findmyorder"><img src="https://codecov.io/gh/mraniki/findmyorder/branch/main/graph/badge.svg?token=4838MSZNCC"/> </a><br>
     </td>
-    <td> Find My order,<br>
+    <td align="center"> Find My order,<br>
        a parsing package to find trading order
     </td>
      
@@ -164,7 +164,8 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
    <a href="https://codebeat.co/projects/github-com-mraniki-dxsp-main"><img src="https://codebeat.co/badges/b1376839-73bc-4b41-bfc1-2fb099f1fc2a"/></a><br>
    <a href="https://codecov.io/gh/mraniki/dxsp"><img src="https://codecov.io/gh/mraniki/dxsp/branch/main/graph/badge.svg?token=39ED0ZA6IH"/> </a><br>
     </td>
-    <td> Swap made easy
+    <td align="center"> 
+       Swap made easy
     </td>
      
   </tr>
@@ -192,7 +193,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
    <a href="https://codebeat.co/projects/github-com-mraniki-iamlistening-main"><img src="https://codebeat.co/badges/4085334e-4590-41f6-a70c-69e9a2641c79"/></a><br>
    <a href="https://codecov.io/gh/mraniki/iamlistening"> <img src="https://codecov.io/gh/mraniki/iamlistening/branch/main/graph/badge.svg?token=QZ55U6KQFN"/></a><br>
     </td>
-    <td> 
+    <td align="center"> 
        Build a chat listener bot
     </td>
      
@@ -222,7 +223,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
       <a href="https://codebeat.co/projects/github-com-mraniki-talkytrend-main"><img src="https://codebeat.co/badges/24c90aab-02d7-4cd1-9ad8-5907e180c9e6"/></a> <br>
       <a href="https://codecov.io/gh/mraniki/talkytrend"><img src="https://codecov.io/gh/mraniki/talkytrend/branch/main/graph/badge.svg?token=WAHUEMAJN6"/></a><br>
     </td>
-    <td> 
+    <td align="center"> 
        A package to retrieve asset trend <br>
        and economic data.
     </td>
