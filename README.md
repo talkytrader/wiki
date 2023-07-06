@@ -141,9 +141,6 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
      <td align="left"> 
         Find My order,<br>
        a parsing package to find trading order
-- Identify an order with word `BUY SELL LONG SHORT` or your own `Bull`, `to the moon`, `pump` via config file
-- Parse and return a structured order with action and instrument as mandatory
-- Capability to map a given instrument to a new one (e.g BTC to WBTC or ETHUSD to ETH)
      </td>
   </tr>
 </table>
@@ -189,13 +186,7 @@ https://github.com/mraniki/findmyorder/blob/main/examples/example.py
     </td>
     <td align="left"> 
 Swap made easy<br>
-Trade on any blockchains mainnet or testnet supported by web3py, for uniswap based router (e.g uniswap, pancakeswap) or 0x protocol.
-- Translate token symbol to contract address via user defined tokenlist format or coingecko API
-- Connect to web3 automatically or use your own w3
-- Approve contract and sign transaction
-- Quote a given token
-- Use Base trading symbol like stablecoin for risk management approach
-- Settings to use the module for your own setup
+Trade on any blockchains with uniswap based router or 0x protocol.
     </td>
      
   </tr>
@@ -240,8 +231,8 @@ https://github.com/mraniki/dxsp/blob/main/examples/example.py
    <a href="https://codecov.io/gh/mraniki/iamlistening"> <img src="https://codecov.io/gh/mraniki/iamlistening/branch/main/graph/badge.svg?token=QZ55U6KQFN"/></a><br>
     </td>
     <td align="left"> 
-       A python package to listen to messaging platforms.<br>
-       Support discord, telegram and matrix platform
+       A python package to listen to messaging platforms,<br>
+       such as discord, telegram and matrix 
     </td>
      
   </tr>
@@ -292,10 +283,10 @@ https://github.com/mraniki/iamlistening/blob/main/examples/example.py
       <a href="https://codecov.io/gh/mraniki/talkytrend"><img src="https://codecov.io/gh/mraniki/talkytrend/branch/main/graph/badge.svg?token=WAHUEMAJN6"/></a><br>
     </td>
     <td align="left"> 
-A python package to retrieve asset trend and economic data.
-- Trading view connectivity with signal scanner<br>
-- News connectivity <br>
-- FOMC reminder<br>
+Retrieve asset trend and economic data.<br>
+Trading view connectivity with signal scanner<br>
+News connectivity<br>
+       FOMC reminder<br>
     </td>
      
   </tr>
