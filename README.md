@@ -158,7 +158,9 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
      <a href="https://pypi.org/project/dxsp/"><img src="https://img.shields.io/pypi/dm/dxsp"><br>
       <a href="https://codebeat.co/projects/github-com-mraniki-dxsp-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/dxsp/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
-     <a href="https://codecov.io/gh/mraniki/dxsp"><img src="https://codecov.io/gh/mraniki/dxsp/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
+    <a href="https://codecov.io/gh/mraniki/dxsp" > 
+ <img src="https://codecov.io/gh/mraniki/dxsp/branch/main/graph/badge.svg?token=39ED0ZA6IH"/> 
+ </a><br>
 <!--      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br> -->
         <a href="https://talkyuniverse.readthedocs.io/projects/dxsp/"><img src="https://readthedocs.org/projects/dxsp/badge/?version=latest"></a><br>
     </td>
