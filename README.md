@@ -187,7 +187,8 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
      <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/dm/talkytrend"><br>
       <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
-     <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
+     <a href="https://codecov.io/gh/mraniki/iamlistening"> <img src="https://codecov.io/gh/mraniki/iamlistening/branch/main/graph/badge.svg?token=QZ55U6KQFN"/> </a>
+        <br>
 <!--      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br> -->
         <a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
