@@ -126,7 +126,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
   </tr>
   <tr>
     <td><a href="https://pypi.org/project/findmyorder/"><img src="https://badgen.net/badge/icon/findmyorder?icon=pypi&label"></a>
-    <a href="https://pypi.org/project/findmyorder/"><img src="https://img.shields.io/pypi/v/findmyorder"></a>
+    <a href="https://pypi.org/project/findmyorder/"><img src="https://img.shields.io/pypi/v/findmyorder"></a><br>
      <a href="https://pypi.org/project/findmyorder/"><img src="https://img.shields.io/pypi/dm/findmyorder"><br>
       <a href="https://codebeat.co/projects/github-com-mraniki-findmyorder-main"><img alt="codebeat badge" src="https://codebeat.co/badges/9b113098-d22d-498d-9c61-eb1e96c1311a" /></a><br>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/findmyorder/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
