@@ -16,8 +16,6 @@ Place order, inquire your balance and more through plugins.<br>
 Easily deploy via Docker on self-hosted platform or Paas.<br>
 <br>
 <p align="left">
-
-
 <a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
 <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a><br>
@@ -26,8 +24,8 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <br><br>
 </p>
 
-
 <img align="right" width="194" alt="screenshot" src="https://github.com/mraniki/tt/assets/8766259/14cb1653-f6b4-44e7-b07c-d930060c7363">
+
 <details close>
 <summary>Get started</summary>
 
@@ -102,16 +100,13 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
   </tr>
   <tr>
     <td>
-<!--        <a href="https://pypi.org/project/talkytrend/"><img src="https://badgen.net/badge/icon/talkytrend?icon=pypi&label"></a><br>
-    <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend"></a>
-     <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/dm/talkytrend"><br> -->
       <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d"><br></a>
       <a href="https://talkytrader.github.io/wiki/"><img src="https://github.com/mraniki/tt/actions/workflows/%F0%9F%91%B7Flow.yml/badge.svg"></a><br>
      <a href="https://codecov.io/gh/mraniki/tt"><img src="https://codecov.io/gh/mraniki/tt/branch/main/graph/badge.svg?token=ILJTC0F4K1)](https://codecov.io/gh/mraniki/tt"></a><br>
      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
         <a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
-    <td> <br>Connect CEX and DEX exchanges across multi messaging platforms and plugin support.<br>
+    <td> <br>Connect CEX and DEX exchanges across multi messaging platforms and plugin support.<br>    </td>
      
   </tr>
 </table>
@@ -141,7 +136,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
         <a href="https://talkyuniverse.readthedocs.io/projects/fyndmyorder/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
-    <td> <br>Find My order, a python parsing package to find trading order<br>
+    <td> <br>Find My order, a python parsing package to find trading order<br>    </td>
      
   </tr>
 </table>
@@ -169,7 +164,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <!--      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br> -->
         <a href="https://talkyuniverse.readthedocs.io/projects/dxsp/"><img src="https://readthedocs.org/projects/dxsp/badge/?version=latest"></a><br>
     </td>
-    <td> <br>Swap made easy<br>
+    <td> <br>Swap made easy<br>    </td>
      
   </tr>
 </table>
@@ -198,7 +193,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
         <a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
-    <td> <br>Build a chat listener bot<br>
+    <td> <br>Build a chat listener bot<br>    </td>
      
   </tr>
 </table>
@@ -228,7 +223,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
      <a href="https://hub.docker.com/r/mraniki/tt"><img src="https://badgen.net/docker/pulls/mraniki/tt"></a><br>
         <a href="https://talkyuniverse.readthedocs.io/projects/talkytrend/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest"></a><br>
     </td>
-    <td> <br>A python package to retrieve asset trend and economic data.<br>
+    <td> <br>A python package to retrieve asset trend and economic data.<br>    </td>
      
   </tr>
 </table>
