@@ -4,4 +4,5 @@ plugins:
 - jekyll-remote-theme
 title: 🗿 Talky Trader
 description: 
-
+github:
+  is_project_page: false
