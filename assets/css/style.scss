@@ -25,7 +25,6 @@ summary > * {
   display: inline;
 }
 
-
-header {
-  display: none !important;
+#header {
+     position: static;
 }
