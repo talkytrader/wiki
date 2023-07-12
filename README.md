@@ -98,10 +98,12 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
   </tr> -->
   <tr>
     <td>
-   <a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge&logo=Docker&logoColor=white"></a><br>
+   <img src="https://img.shields.io/github/v/release/mraniki/tt?style=for-the-badge"><br>
    <a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/tt/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
+<a href="https://talky.readthedocs.io"><img src="https://readthedocs.org/projects/talky/badge/?version=latest&style=for-the-badge"></a><br>
    <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img alt="codebeat badge" src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d" /></a><br>
 <a href="https://codecov.io/gh/mraniki/tt" ><img src="https://codecov.io/gh/mraniki/tt/branch/dev/graph/badge.svg?token=ILJTC0F4K1"/> </a>
+<br><br>
     </td>
     <td align="center"> 
        Connect CEX and DEX exchanges <br>
@@ -315,14 +317,15 @@ https://github.com/mraniki/talkytrend/blob/af472db335afec4e6a643077f7483d030e851
 
 <br><br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-<img src="https://img.shields.io/badge/uvicorn-005571?style=for-the-badge&logo=fastapi">
-<img src="https://img.shields.io/badge/apprise-005571?style=for-the-badge&logo=chatbot"><br>
-<img src="https://img.shields.io/badge/CCXT-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
-<img src="https://img.shields.io/badge/dxsp-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
-<img src="https://img.shields.io/badge/findmyorder-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
-<img src="https://img.shields.io/badge/iamlistening-black?style=for-the-badge&logo=librariesdotio&logoColor=white"><br>
-<img src="https://img.shields.io/badge/talkytrend-black?style=for-the-badge&logo=librariesdotio&logoColor=white">
+<a href="https://github.com/dynaconf/dynaconf"><img src="https://img.shields.io/badge/⚙️dynaconf-005571?style=for-the-badge&logo=settings&logoColor=ffdd54"></a>
+<a href="https://github.com/caronc/apprise"><img src="https://img.shields.io/badge/💬apprise-005571?style=for-the-badge&logo=none"></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
+<a href="https://www.uvicorn.org"><img src="https://img.shields.io/badge/uvicorn-005571?style=for-the-badge&logo=fastapi"></a><br>
+<a href="https://github.com/ccxt/ccxt"><img src="https://img.shields.io/badge/CCXT-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
+<a href="https://github.com/mraniki/dxsp"><img src="https://img.shields.io/badge/dxsp-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a><br>
+<a href="https://github.com/mraniki/findmyorder"><img src="https://img.shields.io/badge/findmyorder-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
+<a href="https://github.com/mraniki/iamlistening"><img src="https://img.shields.io/badge/iamlistening-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a><br>
+<a href="https://github.com/mraniki/talkytrend"><img src="https://img.shields.io/badge/talkytrend-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
 <br><br>
 
 <HR>
