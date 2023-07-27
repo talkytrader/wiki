@@ -323,7 +323,8 @@ https://github.com/mraniki/talkytrend/blob/af472db335afec4e6a643077f7483d030e851
 <a href="https://github.com/mraniki/dxsp"><img src="https://img.shields.io/badge/dxsp-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a><br>
 <a href="https://github.com/mraniki/findmyorder"><img src="https://img.shields.io/badge/findmyorder-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
 <a href="https://github.com/mraniki/iamlistening"><img src="https://img.shields.io/badge/iamlistening-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a><br>
-<a href="https://github.com/mraniki/talkytrend"><img src="https://img.shields.io/badge/talkytrend-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
+<a href="https://github.com/mraniki/talkytrend"><img src="https://img.shields.io/badge/talkytrend-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a><br>
+<a href="https://github.com/tarsil/asyncz"><img src="https://img.shields.io/badge/asyncz-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
 <br><br>
 
 <HR>
