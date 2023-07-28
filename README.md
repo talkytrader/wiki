@@ -157,9 +157,9 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 </code>
 </pre>
 
-<h5>Example</h5>
+<h5>More info</h5>
 
-https://github.com/mraniki/findmyorder/blob/6211e686abf1321ab3d5a8ac33068f854b0e9336/examples/example.py#L1-L90
+<a href="https://talky.readthedocs.io/projects/findmyorder/en/latest/">API documentation</a><br>
 
 <h4>DXSP</h4>
 <br>
@@ -204,10 +204,9 @@ Trade on any blockchains with uniswap based router or 0x protocol.
 </code>
 </pre>
 
-<h5>Example</h5>
+<h5>More info</h5>
 
-https://github.com/mraniki/dxsp/blob/f76fd035eddadc4de2a8509a7c26250c187b0658/examples/example.py#L1-L68
-
+<a href="https://talky.readthedocs.io/projects/dxsp/en/latest/">API documentation</a><br>
 
 <h4>IamListening</h4>
 <br>
@@ -253,9 +252,9 @@ https://github.com/mraniki/dxsp/blob/f76fd035eddadc4de2a8509a7c26250c187b0658/ex
 </code>
 </pre>
 
-<h5>Example</h5>
+<h5>More info</h5>
 
-https://github.com/mraniki/iamlistening/blob/dcc5dad8887300e34d66d1e36635479ad3b54685/examples/example.py#L1
+<a href="https://talky.readthedocs.io/projects/iamlistening/en/latest/">API documentation</a><br>
 
 <h4>TalkyTrend</h4>
 <br>
@@ -308,8 +307,10 @@ News connectivity<br>
 </code>
 </pre>
 
-<h5>Example</h5>
-https://github.com/mraniki/talkytrend/blob/af472db335afec4e6a643077f7483d030e8511ac/examples/example.py#L1-L50
+<h5>More info</h5>
+
+<a href="https://talky.readthedocs.io/projects/talkytrader/en/latest/">API documentation</a><br>
+
 
 </details>
 
