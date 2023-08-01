@@ -3,8 +3,8 @@
 
 <img  alt="logo" src="https://i.imgur.com/Q7iDDyB.jpg" align="right" alt="talky" width="200" height="200">
 <div align="left">
-<!-- <a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/github/stars/mraniki/tt?style=for-the-badge"></a>-->
-<!-- <a href="https://github.com/mraniki/tt/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/mraniki/tt?style=for-the-badge&color=blue"></a> -->
+
+
 Connect CEX and DEX exchanges across multi messaging platforms.<br>
 Place order, inquire your balance and more through plugins.<br>
 Easily deploy via Docker on self-hosted platform or Paas.<br>
@@ -41,7 +41,6 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <details close>
 <summary>settings example</summary>
    
-<!-- https://github.com/mraniki/tt/blob/b0e72f68345271c00cf1eed4c6506b8b00ca0b4a/examples/example_settings.toml#L2-->
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample_settings.toml&style=nnfx-dark&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></script>
 
@@ -70,8 +69,6 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <summary>env vars list</summary>
 
 
-<!--https://github.com/mraniki/tt/blob/b0e72f68345271c00cf1eed4c6506b8b00ca0b4a/tt/talky_settings.toml#L1-L367-->
-
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Ftt%2Ftalky_settings.toml&style=nnfx-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
 </details>
@@ -86,17 +83,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <h4>Talky</h4>
 <br>
 <table style="border: 1px solid transparent">
-<!--   <tr>
-    <td>
-<a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
-<a href="https://github.com/mraniki/tt/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a><br>
-<a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/tips-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
-<a href="https://t.me/TTTalkyTraderChat/1"><img src="https://img.shields.io/badge/talky-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/discord/1049307055867035648?style=for-the-badge&logo=discord&logoColor=white&label=%20%20&color=blue"></a>
-   </td>
-      <td align="center"><img width="200" alt="Logo" src="https://i.imgur.com/Q7iDDyB.jpg"></td>
-  </tr> -->
+
   <tr>
     <td>
    <img src="https://img.shields.io/github/v/release/mraniki/tt?style=for-the-badge"><br>
@@ -119,17 +106,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <h4>FindMyOrder</h4>
 
 <table style="border: 1px solid transparent">
-<!--   <tr>
-    <td>
-<a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
-<a href="https://github.com/mraniki/findmyorder/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://hub.docker.com/r/mraniki/tt"><img src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a><br>
-<a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/tips-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
-<a href="https://t.me/TTTalkyTraderChat/1"><img src="https://img.shields.io/badge/talky-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/discord/1049307055867035648?style=for-the-badge&logo=discord&logoColor=white&label=%20%20&color=blue"></a>
-    </td>
-    <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/233823991-cceaa05a-ff15-4796-a6bb-bcb3ee0d8859.jpg"></td>
-  </tr> -->
+
   <tr>
     <td>
       <a href="https://pypi.org/project/findmyorder/"><img src="https://img.shields.io/pypi/v/findmyorder?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
@@ -146,16 +123,6 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
   </tr>
 </table>
 
-<h5>How to use it</h5>
-<pre>
-<code>
-      from findmyorder import FindMyOrder
-         fmo = FindMyOrder()
-         msg_order = "buy EURUSD sl=1000 tp=1000 q=1 comment=FOMC"
-         order = await fmo.get_order(msg_order)
-         #{'action': 'BUY', 'instrument': 'EURUSD', 'stop_loss': '1000', 'take_profit': '1000', 'quantity': '2', 'order_type': None, 'leverage_type': None, 'comment': None, 'timestamp': datetime.datetime(2023, 5, 3, 12, 10, 28, 731282, tzinfo=datetime.timezone.utc)}
-</code>
-</pre>
 
 <h5>More info</h5>
 
@@ -165,17 +132,7 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 <br>
 
 <table style="border: 1px solid transparent">
-<!--   <tr>
-    <td>
-<a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
-<a href="https://github.com/mraniki/dxsp/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://hub.docker.com/r/mraniki/tt"><img src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a><br>
-<a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/tips-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
-<a href="https://t.me/TTTalkyTraderChat/1"><img src="https://img.shields.io/badge/talky-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/discord/1049307055867035648?style=for-the-badge&logo=discord&logoColor=white&label=%20%20&color=blue"></a>
-  </td>
-    <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/231213427-63ea2752-13d5-4993-aee2-90671b57fc6e.png"></td>
-  </tr> -->
+
   <tr>
     <td>
       <a href="https://pypi.org/project/dxsp/"><img src="https://img.shields.io/pypi/v/dxsp?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
@@ -193,16 +150,6 @@ Trade on any blockchains with uniswap based router or 0x protocol.
   </tr>
 </table>
 
-<h5>How to use it</h5>
-<pre>
-<code>
-   from dxsp import DexSwap
-    dex = DexSwap()
-    #BUY 10 USDT to SWAP with BITCOIN
-    demo_tx = await dex.get_swap('USDT','wBTC',10)
-    print("demo_tx ", demo_tx)
-</code>
-</pre>
 
 <h5>More info</h5>
 
@@ -211,22 +158,13 @@ Trade on any blockchains with uniswap based router or 0x protocol.
 <h4>IamListening</h4>
 <br>
 <table style="border: 1px solid transparent">
-<!--   <tr>
-    <td>
-<a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
-<a href="https://github.com/mraniki/iamlistening/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://hub.docker.com/r/mraniki/tt"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a><br>
-<a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/tips-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
-<a href="https://t.me/TTTalkyTraderChat/1"><img src="https://img.shields.io/badge/talky-blue?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/discord/1049307055867035648?style=for-the-badge&logo=discord&logoColor=white&label=%20%20&color=blue"></a>
-    </td>
-    <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/242846519-f76331f6-8821-49eb-8f1c-06aedd8557be.jpeg"></td>
-  </tr> -->
+
   <tr>
     <td>
       <a href="https://pypi.org/project/iamlistening/"><img src="https://img.shields.io/pypi/v/iamlistening?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
       <a href="https://pypi.org/project/iamlistening/"><img src="https://img.shields.io/pypi/dm/iamlistening?style=for-the-badge&logo=PyPI&logoColor=white&label=pypi&labelColor=grey"></a><br>
       <a href="https://github.com/mraniki/iamlistening/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/iamlistening/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
-   <a href="https://talkyuniverse.readthedocs.io/projects/iamlistening/"><img src="https://readthedocs.org/projects/iamlistening/badge/?version=latest&style=for-the-badge"></a><br>
+   <a href="https://talky.readthedocs.io/"><img src="https://readthedocs.org/projects/iamlistening/badge/?version=latest&style=for-the-badge"></a><br>
    <a href="https://codebeat.co/projects/github-com-mraniki-iamlistening-main"><img src="https://codebeat.co/badges/4085334e-4590-41f6-a70c-69e9a2641c79"/></a><br>
    <a href="https://codecov.io/gh/mraniki/iamlistening"> <img src="https://codecov.io/gh/mraniki/iamlistening/branch/main/graph/badge.svg?token=QZ55U6KQFN"/></a><br>
     </td>
@@ -238,20 +176,6 @@ Trade on any blockchains with uniswap based router or 0x protocol.
   </tr>
 </table>
 
-<h5>How to use it</h5>
-<pre>
-<code>
-      from iamlistening import Listener
-        listener = Listener()
-        task = asyncio.create_task(listener.run_forever())
-        while True:
-          msg = await listener.get_latest_message()
-          if msg:
-            print(f"Frasier👂: {msg}"
-        await task
-</code>
-</pre>
-
 <h5>More info</h5>
 
 <a href="https://talky.readthedocs.io/projects/iamlistening/en/latest/">API documentation</a><br>
@@ -259,17 +183,7 @@ Trade on any blockchains with uniswap based router or 0x protocol.
 <h4>TalkyTrend</h4>
 <br>
 <table style="border: 1px solid transparent">
-<!--   <tr>
-    <td>
-       <a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/badge/Wiki-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a><br>
-<a href="https://github.com/mraniki/talkytrend/"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://hub.docker.com/r/mraniki/tt"><img src="https://img.shields.io/docker/pulls/mraniki/tt?style=for-the-badge"></a><br>
-<a href="https://coindrop.to/mraniki"><img src="https://img.shields.io/badge/tips-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
-<a href="https://t.me/TTTalkyTraderChat/1"><img src="https://img.shields.io/badge/talky-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://discord.gg/gMNERs5M9"><img src="https://img.shields.io/discord/1049307055867035648?style=for-the-badge&logo=discord&logoColor=white&label=%20%20&color=blue"></a>
-       </td>
-    <td align="center"><img width="200" alt="Logo" src="https://user-images.githubusercontent.com/8766259/226854338-e900f69e-d884-4a9a-90b1-b3dde7711b31.png"></td>
-  </tr> -->
+
   <tr>
     <td>
       <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
@@ -288,24 +202,6 @@ News connectivity<br>
      
   </tr>
 </table>
-
-<h5>How to use it</h5>
-<pre>
-<code>
-   from talkytrend import TalkyTrend
-   talky = TalkyTrend()
-    result = await talky.fetch_signal()
-    #  BUY
-    result = await talky.fetch_event()
-    print(result)
-    #  Title:  FDA advisers say new Alzheimer’s drug lecanemab slows cognitive decline
-    # Description:  Panel’s opinion could pave way for full regulatory approval next month for treatment of disease that affects 6.5m Americans
-    monitor = await talky.monitor() #ongoing monitoring
-    # New signal for BTCUSD (4h): STRONG_SELL
-    # Key event: {'title': 'OPEC-JMMC Meetings', 'country': 'ALL', 'date': '2023-06-04T06:15:00-04:00', 'impact': 'High', 'forecast': '', 'previous': ''}\
-    # Key news: FDA advisers say new Alzheimer’s drug lecanemab slows cognitive decline
-</code>
-</pre>
 
 <h5>More info</h5>
 
