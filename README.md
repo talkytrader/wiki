@@ -82,34 +82,33 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 
 <h4>Talky</h4>
 <br>
+<a href="https://talky.readthedocs.io/"><img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white"></a><br>
+
 <table style="border: 1px solid transparent">
 
   <tr>
     <td>
-   <img src="https://img.shields.io/github/v/release/mraniki/tt?style=for-the-badge"><br>
-   <a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/tt/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
+<img src="https://img.shields.io/github/v/release/mraniki/tt?style=for-the-badge"><br>
+<a href="https://talkytrader.github.io/wiki/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/tt/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
 <a href="https://talky.readthedocs.io"><img src="https://readthedocs.org/projects/talky/badge/?version=latest&style=for-the-badge"></a><br>
-   <a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img alt="codebeat badge" src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d" /></a><br>
+<a href="https://codebeat.co/projects/github-com-mraniki-tt-main"><img alt="codebeat badge" src="https://codebeat.co/badges/94b328d7-777c-4d54-a0d9-ff4625c5e05d" /></a><br>
 <a href="https://codecov.io/gh/mraniki/tt" ><img src="https://codecov.io/gh/mraniki/tt/branch/dev/graph/badge.svg?token=ILJTC0F4K1"/> </a>
-<br><br>
     </td>
     <td align="center"> 
        Connect CEX and DEX exchanges <br>
        across multi messaging platforms <br>
        with plugin support.
     </td>
-     
   </tr>
 </table>
 <br>
 
 <h4>FindMyOrder</h4>
-
+<a href="https://talky.readthedocs.io/projects/findmyorder/en/latest/"><img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white"></a><br>
 <table style="border: 1px solid transparent">
-
   <tr>
     <td>
-      <a href="https://pypi.org/project/findmyorder/"><img src="https://img.shields.io/pypi/v/findmyorder?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
+             <a href="https://pypi.org/project/findmyorder/"><img src="https://img.shields.io/pypi/v/findmyorder?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
       <a href="https://pypi.org/project/findmyorder/"><img src="https://img.shields.io/pypi/dm/findmyorder?style=for-the-badge&logo=PyPI&logoColor=white&label=pypi&labelColor=grey"></a><br>
       <a href="https://github.com/mraniki/findmyorder"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/findmyorder/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
    <a href="https://talkyuniverse.readthedocs.io/projects/fyndmyorder/"><img src="https://readthedocs.org/projects/talkytrend/badge/?version=latest&style=for-the-badge"></a><br>
@@ -124,13 +123,9 @@ Easily deploy via Docker on self-hosted platform or Paas.<br>
 </table>
 
 
-<h5>More info</h5>
-
-<a href="https://talky.readthedocs.io/projects/findmyorder/en/latest/">API documentation</a><br>
-
 <h4>DXSP</h4>
 <br>
-
+<a href="https://talky.readthedocs.io/projects/dxsp/en/latest/"><img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white"></a><br>
 <table style="border: 1px solid transparent">
 
   <tr>
@@ -150,13 +145,9 @@ Trade on any blockchains with uniswap based router or 0x protocol.
   </tr>
 </table>
 
-
-<h5>More info</h5>
-
-<a href="https://talky.readthedocs.io/projects/dxsp/en/latest/">API documentation</a><br>
-
 <h4>IamListening</h4>
 <br>
+<a href="https://talky.readthedocs.io/projects/iamlistening/en/latest/"><img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white"></a><br>
 <table style="border: 1px solid transparent">
 
   <tr>
@@ -176,14 +167,10 @@ Trade on any blockchains with uniswap based router or 0x protocol.
   </tr>
 </table>
 
-<h5>More info</h5>
-
-<a href="https://talky.readthedocs.io/projects/iamlistening/en/latest/">API documentation</a><br>
-
 <h4>TalkyTrend</h4>
 <br>
+<a href="https://talky.readthedocs.io/projects/talkytrend/en/latest/"><img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white"></a><br>
 <table style="border: 1px solid transparent">
-
   <tr>
     <td>
       <a href="https://pypi.org/project/talkytrend/"><img src="https://img.shields.io/pypi/v/talkytrend?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
@@ -199,13 +186,29 @@ Trading view connectivity with signal<br>
 News connectivity<br>
        FOMC reminder<br>
     </td>
-     
   </tr>
 </table>
 
-<h5>More info</h5>
 
-<a href="https://talky.readthedocs.io/projects/talkytrader/en/latest/">API documentation</a><br>
+<h4>MyLLM</h4>
+<br>
+<a href="https://talky.readthedocs.io/projects/myllm/en/latest/"><img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white"></a><br>
+
+<table style="border: 1px solid transparent">
+  <tr>
+    <td>
+      <a href="https://pypi.org/project/myllm/"><img src="https://img.shields.io/pypi/v/myllm?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
+      <a href="https://pypi.org/project/myllm/"><img src="https://img.shields.io/pypi/dm/myllm?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
+      <a href="https://github.com/mraniki/myllm/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/myllm/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
+      <a href="https://talky.readthedocs.io/projects/myllm/"><img src="https://readthedocs.org/projects/myllm/badge/?version=latest&style=for-the-badge"></a><br>
+      <a href="https://codebeat.co/projects/github-com-mraniki-myllm-main"><img src="https://codebeat.co/badges/0567b9d9-3cbb-4263-80ec-8ac8043332ea"/></a> <br>
+      <a href="https://codecov.io/gh/mraniki/myllm"><img src="https://codecov.io/gh/mraniki/myllm/branch/main/graph/badge.svg?token=WAHUEMAJN6"/></a><br>
+    </td>
+    <td align="left"> 
+Interact with LLM in simple way.<br>
+  </td>   
+  </tr>
+</table>
 
 
 </details>
@@ -217,11 +220,12 @@ News connectivity<br>
 <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
 <a href="https://www.uvicorn.org"><img src="https://img.shields.io/badge/uvicorn-005571?style=for-the-badge&logo=fastapi"></a><br>
 <a href="https://github.com/ccxt/ccxt"><img src="https://img.shields.io/badge/CCXT-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
-<a href="https://github.com/mraniki/dxsp"><img src="https://img.shields.io/badge/dxsp-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a><br>
+<a href="https://github.com/mraniki/dxsp"><img src="https://img.shields.io/badge/dxsp-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
 <a href="https://github.com/mraniki/findmyorder"><img src="https://img.shields.io/badge/findmyorder-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
 <a href="https://github.com/mraniki/iamlistening"><img src="https://img.shields.io/badge/iamlistening-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a><br>
-<a href="https://github.com/mraniki/talkytrend"><img src="https://img.shields.io/badge/talkytrend-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a><br>
+<a href="https://github.com/mraniki/talkytrend"><img src="https://img.shields.io/badge/talkytrend-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
 <a href="https://github.com/tarsil/asyncz"><img src="https://img.shields.io/badge/asyncz-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
+<a href="https://github.com/mraniki/MyLLM"><img src="https://img.shields.io/badge/myLLM-black?style=for-the-badge&logo=librariesdotio&logoColor=white"></a>
 <br><br>
 
 <HR>
